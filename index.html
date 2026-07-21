@@ -20,9 +20,19 @@
   <main id="cards" class="cards"></main>
 
   <footer class="site-footer">
-    <span>纯静态站点 · 可离线使用 · 一键部署 GitHub Pages</span>
+    <span>单击卡片查看详情 · 右键切换已背/未背</span>
     <span id="progress"></span>
   </footer>
+
+  <!-- 详情弹窗 -->
+  <div class="modal-overlay" id="modalOverlay"></div>
+  <div class="modal" id="modal">
+    <div class="modal-header">
+      <h2 class="modal-title" id="modalTitle"></h2>
+      <button class="modal-close" id="modalClose">&times;</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
 
   <script src="assets/data.js"></script>
   <script src="assets/app.js"></script>

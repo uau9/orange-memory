@@ -28,10 +28,342 @@ window.SUBJECTS = {
     { tag: "公式·示例", 知识点: "等差数列前 n 项和", 核心内容: "Sn = n(a1+an)/2 = n·a1 + n(n-1)d/2。", 易错: "n 从 1 开始；d 可正可负；与等比数列勿混。", 记忆技巧: "「首项尾项配对数」联想梯形面积。" },
     { tag: "二级结论·示例", 知识点: "椭圆焦点三角形面积公式", 核心内容: "S = b²·tan(θ/2)，θ 为 ∠F1PF2。", 易错: "仅适用于椭圆；解答题须先推导再使用。", 记忆技巧: "选择填空可直接用，解答题要写过程。" }
   ],
-  "英语": [
-    { tag: "熟词生义·示例", 知识点: "book / spring / coin", 核心内容: "book v. 预订；spring n. 泉；coin v. 创造（新词）。", 易错: "阅读中按名词义理解会翻车。", 记忆技巧: "建「熟词生义」小本，每天 10 个。" },
-    { tag: "写作模板·示例", 知识点: "建议信万能句", 核心内容: "I'm writing to share some tips with you. Firstly, it would be wise to… Besides, I strongly recommend that you…", 易错: "时态一致；recommend 后接 (should) do。", 记忆技巧: "三段式：点题→分点→结尾祝福。" }
-  ],
+  "英语":
+[
+  {
+    "tag": "高考词组表518",
+    "知识点": "A 组词组（41个）",
+    "核心内容": "a great drain on sth. 对…巨大的消耗 | as far as 就…而言,远到… | account for 说明,解释                                                 到…程度(表示程度范围) | accuse … of... 指控…,谴责… | as usual 照常 | act as 担任;充当 | ask a favor of 请…帮个忙 | adapt(…) to … 使适应 | ask about 查问,打听 | add to 增添 | ask after 问候 | add up to 合计达 | associate A with B 把 A 和 B 联系起来 | adjust (…) to (使)适应 | assure ...of 向...保证 | admit … to/into 准许…进人 | at a loss 茫然不知所措 | agree on 就…取得一致 | at all costs/at any cost 不惜一切代价 | agree to 同意某人观点、意见 | at first sight 乍一看 | agree with… 同意……的意见;适合 | at one time 一度 | ahead of time/ schedule 提前 | at present 现在，目前 | aim at 瞄准,争取 | at the cost of 以...为代价 | appeal to 呼吁;吸引 | at the mercy of 任由...摆布 | apply for 申请 | at the moment 此刻，目前；那时，当时 | apply… to... 把……应用于… | at the risk of one’s life 冒着生命危险 | approve of 赞成 | at times 有时 | a matter of fact 事实上 | attach...to 把..依附于 | as a result 作为结果;因此 | attach importance to 重视 | as a whole 作为整体,就整体来看 | award sb. sth 授予某人某物",
+    "详情": "◆ account for
+  例句：How do you account for the delay? 你如何解释这次延误？
+  辨析：account for(解释/占比) vs explain(解释，更通用)，account for还可表\"占…比例\"
+
+◆ agree on
+  例句：We agreed on the plan. / I agree with you. / He agreed to the proposal.
+  辨析：agree on(双方商定) vs agree with(赞同某人/适合) vs agree to(同意建议)
+
+◆ apply for
+  例句：She applied for the job. / This rule applies to everyone.
+  辨析：apply for(申请) vs apply to(适用于)",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 A 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "B 组词组（82个）",
+    "核心内容": "base...on..               . 把...放在...的基础上 | be grateful /thankful to sb. for sth .因某事感激某人  | be absent from 缺席 | be ignorant of 对某事一无所知 | be absorbed in ... 全神贯注于... | be in favour of 支持（赞成）... | be accustomed to doing 习惯于做 | be independent of 独立于 | be anxious about 担忧 | be infected with 受感染 | be aware of 意识到的 | be inferior to 较低于，与...相比不如 | be capable of 有能力 | be involved in 卷入，参与 | be composed of ... 由...组成 | be located (in) 坐落（在） | be concerned about 关心 | be lost in thought 陷入沉思 | be confident of 对....有信心 | be of good/poor quality 质量好/差  | be considerate of sb.to do sth 某人做某事考虑周到  | be on a diet 节食 | be contrary to 与......相反 | be opposed to doing 强烈反对做某事 | be curious about 对...好奇 | be particular about 对...挑剔 | be determined to do 决定做某事 | be popular with/among 受某人欢迎  | be down with 由于......病倒了 | be present at 出席，出场 | be engaged in 忙于做某事 | be qualified for 可胜任... | be equal to 与...相等 | be related to 与......相关 | be exposed to 曝光于，接触 | be resistant to ... 对...有抵抗力 | be faced with sth. 面对... | be responsible for 对...负责任 | be familiar with 对...熟悉 | be satisfied with 对...感到满意 | be fed up with 对...厌烦 | be second to none 第一，不次于任何人 | be fit for 适合 | be short of 缺乏 | be free from 没有…的 | be similar to 与......相似 | be strict with 对......严格 | break the law 违法 | be suitable for 适合...... | break through 突破；突围 | be superior to 优于...... | bring...to an end 结束 | be sure of 坚信；确信 | bring...to life 使……苏醒 | be worried about 为......担心 | bring about 引起 | be/get used to 习惯于...... | bring up 抚养 | bear ...in mind 把......牢记在心 | build up 建立，树立 | begin with 由......开始 | bump into 装上；碰见 | behave oneself 行为检点，守规矩 | burst into 突然发作; 突然……起来 | believe in 信仰，对......有信心 | by accident 意外地；偶然 | believe it or not 信不信由你 | by all means 一定 | benefit from 得益于 | by comparison 比较起来，相比之下 | beyond /within one’s power 力所不及 力所能及  | by means of 用；依靠 | beyond description 难以描述 | by mistake 弄错 | blame……for 因…责备某人 | by no means 决不 | break away from 脱离,逃跑 | by the dozen 以打计 | break down 抛锚；倒塌；中止 | by this means 用这种方法 | beak out 爆发 | by/in contrast 对比之下",
+    "详情": "◆ be accustomed to doing
+  例句：He is accustomed to getting up early. 他习惯早起。
+  辨析：be accustomed to doing = be used to doing，to是介词后接doing
+
+◆ be involved in
+  例句：He was involved in the accident. 他卷入了事故。
+  辨析：be involved in(卷入/参与) vs take part in(主动参加)
+
+◆ be composed of ...
+  例句：The team is composed of 12 players. 这个队由12名球员组成。
+  辨析：be composed of = consist of = be made up of，均表\"由…组成\"
+
+◆ be determined to do
+  例句：She is determined to succeed. 她决心成功。
+  辨析：determined(有决心的) vs decide(决定)，determined程度更强
+
+◆ be engaged in
+  例句：He is engaged in scientific research. 他从事科研工作。
+  辨析：be engaged in(忙于/从事) vs be busy with(忙于)，前者更正式
+
+◆ be exposed to
+  例句：Children should be exposed to different cultures. 孩子应接触不同文化。
+  辨析：be exposed to(接触/暴露于) 无被动含义，是固定搭配
+
+◆ be familiar with
+  例句：I am familiar with this area. / This area is familiar to me.
+  辨析：be familiar with(主语熟悉宾语) vs be familiar to(主语被宾语熟悉)
+
+◆ bring about
+  例句：What brought about the change? / She brought up three children.
+  辨析：bring about(引起) vs bring up(抚养/提出)",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 B 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "C 组词组（47个）",
+    "核心内容": "call at 访问某地 | come to/arrive at a conclusion 得出结论 | call for 要求；需要 | come up with 提出 | call in 顺路到（某处）      ；请某人来帮忙 | come up 走近；长出来 | call off 取消 | comment on 评论 | call on 拜访某人；号召 | commit a crime 犯罪 | call out 大声叫唤；唤起 | common knowledge 常识 | care about 关心、介意 | compare Ato B 把 A 比喻成 B | carry on 继续；进行 | compare A with B 把 A 和 B 比较 | carry out 执行；实施 | compete with 与…相竞争 | catch one’s eye 吸引注意 | concentrate on 集中精力在… | catch up with 赶上 | conduct a survey 做一个调查 | catch/lose sight of 看见/看不见 | confuse A withB 把 A 和 B 混淆 | change for the better /worse 好转/恶化  | congratulate sb.on sth. 因某事祝贺某人  | charge…with 控告 | consider...（as/to be) 把……看作  | cheer up 使高兴；高兴起来 | consist of 由……组成 | clean up 打扫干净 | contribute to 有助于 | clear up 澄清； （天气）变睛 | convince sb.of sth 使某人相信某事 | combine...with... 把.….和..…结合起来 | cooperate with sb. 和某人合作 | come across 不期而遇 | cope with 对付，应付，处理 | come down with 患病 | count on 依靠，指望 | come into existence/being 产生、成立 | cover along distance 走了很长一段路 | come out 出来；开花；结果是 | cut down on 减少 | come to (oneself) 达到；共计；恢复知觉，苏醒  | cut off 切断；断绝 | come to/into power 上台，执掌",
+    "详情": "◆ call at
+  例句：I called at his house. / This calls for patience. / The meeting was called off.
+  辨析：call at(访问某地) vs call on(拜访某人) vs call for(需要) vs call off(取消)
+
+◆ carry on
+  例句：Carry on with your work. / Carry out the plan.
+  辨析：carry on(继续) vs carry out(执行)
+
+◆ catch up with
+  例句：I need to catch up with my classmates. 我得赶上同学们。
+  辨析：catch up with(赶上进度/人) vs keep up with(跟上节奏)
+
+◆ consist of
+  例句：The book consists of ten chapters. 这本书由十章组成。
+  辨析：consist of = be made up of，无被动语态，不用进行时
+
+◆ contribute to
+  例句：Exercise contributes to good health. 运动有助于健康。
+  辨析：contribute to(有助于/导致/贡献)，to是介词
+
+◆ come across
+  例句：I came across an old friend. / She came up with a good idea.
+  辨析：come across(偶然遇见) vs come up with(想出)
+
+◆ cope with
+  例句：How do you cope with stress? 你如何应对压力？
+  辨析：cope with = deal with = handle，均表\"处理/应对\"
+
+◆ count on
+  例句：You can count on me. 你可以指望我。
+  辨析：count on = rely on = depend on，均表\"依靠\"",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 C 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "D 组词组（14个）",
+    "核心内容": "date back to 追溯到 | devote oneself to doing sth. 献身于做某事  | die down 逐渐平息 | do nothing but do 除了…什么也不做 | die out 灭绝 | draw/form/reach/ make a conclusion 得出结论  | differ from 与.....不同 | draw/attract one’s attention 吸引某人的注意  | distinguish...from... 把......区别于...... | draw sb mad 把某人逼疯 | divide...into 把......分成 | drop in on/at 顺便拜访 | do harm/good to 对…有害处／好处 | due to 由于；因为",
+    "详情": "◆ date back to
+  例句：This temple dates back to the 12th century. 这座寺庙可追溯到12世纪。
+  辨析：date back to(追溯到) = date from，用一般现在时
+
+◆ devote oneself to doing sth. 献身于做某事
+  例句：She devoted herself to helping the poor. 她献身于帮助穷人。
+  辨析：devote oneself to doing，to是介词，后接doing
+
+◆ die down
+  例句：The wind died down. / Dinosaurs died out.
+  辨析：die down(逐渐平息) vs die out(灭绝)
+
+◆ distinguish...from...
+  例句：Can you distinguish reality from dreams? 你能区分现实和梦吗？
+  辨析：distinguish A from B = tell A from B，均表\"区分\"",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 D 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "E 组词组（7个）",
+    "核心内容": "end up with 以……告终 | escape from 从……逃离 | enter for/sign up for 报名参加 | ever since 从那时起直至今日 | entertain sb. with sth. 用……来招待某人 | exchange A for B 用 A 交换 B | equip sb. with sth. 用……来装备某人",
+    "详情": "◆ end up with
+  例句：We ended up with a great solution. 我们最终得到了一个好方案。
+  辨析：end up with(以…告终) vs end up doing(最终做某事)",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 E 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "F 组词组（20个）",
+    "核心内容": "face up to 勇敢面对 | fall in love with... 爱上某人 | focus (one’s attention) on 集中注意 | fall off 跌落 | follow one’s example 学某人的样子  | fall on 落在某一天；责任落在某 | food for thought 应思考的问题 | far from enough 远远不够 | for free 免费地；无偿地 | fight against 与…斗争 | for the sake of 为了…...利益 | figure out 算出，推测出 | forgive sb. for 因…而原谅某人 | fill...with 用…充满 | form the habit of 养成某种习惯 | find an excuse 找借口 | free of charge 免费 | find fault with 挑…毛柄 | from the bottom of one’s heart  | fit in with 适合                                                   从心底里，发自内心地",
+    "详情": "◆ figure out
+  例句：I can't figure out the answer. 我算不出答案。
+  辨析：figure out(理解/算出) = work out",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 F 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "G 组词组（20个）",
+    "核心内容": "get across 横过；穿过 | give out 分发 | get down to 开始认真对待 | give rise to 引起 | get in the way 挡道，妨碍 | give way to 让位于，对……让步 | get lost 迷路 | glance at 暼一眼，匆匆一看 | get over 克服；从……恢复过来 | go after 追求 | get through with 完成 | go in for 从事于，报名参加 | give… a lift 给…...搭便车 | go round 足够分配；（疾病）流传，传播 | give away 泄露；出卖；赠送 | go through 检查；经历 | give in 投降；让步；上交 | go with 伴随；与……协调 | give off 发出（气体） | graduate from 从…毕业",
+    "详情": "◆ get across
+  例句：Get your message across. / Let's get down to work. / Get over the difficulty. / Get through the exam.
+  辨析：get across(传达) vs get down to(开始认真) vs get over(克服) vs get through(完成/通过)
+
+◆ go after
+  例句：Go after your dream. / She goes in for sports. / I went through a hard time.
+  辨析：go after(追求) vs go in for(从事/爱好) vs go through(经历)
+
+◆ give away
+  例句：Don't give away the secret. / Never give in. / The flower gives off a sweet smell. / Give out the papers.
+  辨析：give away(泄露) vs give in(投降) vs give off(发出气味) vs give out(分发) vs give up(放弃)",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 G 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "H 组词组（17个）",
+    "核心内容": "hand out 分发 | have access to 可以进入／使用 | hang on 抓紧不放，不挂电话 | have an effect on 对……有影响、效果 | have a gift/talent/genius for 有…的天赋  | have faith/confidence in 对……有信心  | have a good/poor opinion of 对……评价高／低  | have influence on 对......有影响 | have a good command of 精通 | have no choice but to do 别无选择  | have a look at 看一看；请看 | have/show respect for 尊敬某人  | have a passion for 酷爱 | have trouble with ......有困难 | have a word with sb. 和......说话 | head for 驶向，走向 | hold a firm belief in sth. 对某事怀着坚定信念 ",
+    "详情": "◆ have access to
+  例句：Students have access to the library. 学生可以使用图书馆。
+  辨析：have access to(可使用/可进入)，to是介词
+
+◆ have a good command of
+  例句：She has a good command of English. 她精通英语。
+  辨析：have a good command of = be proficient in
+
+◆ have no choice but to do 别无选择
+  例句：I have no choice but to wait. 我别无选择只能等。
+  辨析：have no choice but to do = can do nothing but do，后者but后省to",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 H 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "L 组词组（9个）",
+    "核心内容": "look around 环视;向四周看 | look through 浏览;核查;看穿,识破 | look back 回顾 | look to 指望 | look down on/upon 轻视 | look up to 尊敬 | look into 调査,观察 | lose heart 失去信心 | look on 旁观",
+    "详情": "本组词组以记忆搭配为主，注意介词用法和固定搭配。",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 L 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "M 组词组（27个）",
+    "核心内容": "major in 主修 | make contributions to 对……作贡献  | make/ commit a mistake 犯错 | make out 辨认出 | make/ earn a living 谋生 | make sense 讲得通,有意义 | make a decision 做决定 | make sure 确保,查明 | make a fortune 发财 | make trouble 惹麻烦 | make a list 列一张清单 | make up 组成;编造;补偿 | make a profit 赚取利润 | make up for 补偿,弥补 | make a promise 许诺 | make use of 使用;利用 | make an effort 努力 | make/ leave an impression on 留下印象  | make an offer 主动提供 | meet one's need/ demand/expectation  | make arrangements for 为……安排                                       满足某人的需要/期望 | make comments on 发表评论 | meet the requirement of 满足要求  | make complaints about 抱怨 | mess up 弄乱,弄糟 | make contact with 与……取得联系 | mistake A for B 把 A 误认为 B",
+    "详情": "◆ make out
+  例句：I can't make out the words. / Make up a story. / Make up for lost time.
+  辨析：make out(辨认) vs make up(编造/组成) vs make up for(弥补)",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 M 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "N 组词组（1个）",
+    "核心内容": "negotiate with sb. 与某人谈判协商",
+    "详情": "本组词组以记忆搭配为主，注意介词用法和固定搭配。",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 N 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "O 组词组（25个）",
+    "核心内容": "object to 反对 | on schedule 准时 | oblige sb.to do 迫使某人做某事 | on the contrary 正相反 | observe the regulations/rule 遵守规则  | on the occasion of 在做某事的场合/情况 | occur to 想到 | on the way to 在去…的路上 | on board 在船上 | on the whole 就总体而言 | on camps 在校园内 | nice in a while 偶尔 | on condition that 只要 | operate on 做手术 | on display 在展览 | other than 除了 | on fire 着火 | out of breath 喘不过气来 | on one’s own 单独,靠自己 | out of order/ control 失灵,失控 | on one's side 站在某人一边,支持某人 | out of/ with range 在射程外/内 | on purpose 故意地 | owing to 由于 | on sale 出售;廉价出售",
+    "详情": "◆ on the contrary
+  例句：It's not boring; on the contrary, it's exciting. 不无聊，正相反，很刺激。
+  辨析：on the contrary(正相反) vs on the other hand(另一方面)，前者表完全否定
+
+◆ occur to
+  例句：It never occurred to me that he was lying. 我从没想到他在撒谎。
+  辨析：It occurs to sb. that... = It strikes sb. that...
+
+◆ other than
+  例句：There's no one other than you. 除了你没有别人。
+  辨析：other than(除了) = except = apart from",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 O 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "P 组词组（27个）",
+    "核心内容": "participate in 参与 | pass on/down 传递;传授 | pass away 逝世,去世 | pass through 穿过,经历 | pass by 路过 | pay a visit to 访问 | pay attention to 注意                                                   向某人提供某物 | pay back 偿还,回报 | put...into practice 将...付诸实施 | payoff 还清(借款) | put..into words 用言辞表达... | persevere in 坚持不懈 | put away 把...收起；放好 | persist in 坚持/执意做某事 | put down 放下，记下 | pick up 学会;(用车/船)接人 | put forward 提出 | place an order for 订购某物 | put out 出版，公布，扑灭 | play a part(in) (在…中)起作用 | put pressure on 对...施压 | point at 指着 | put through 接通电话 | prohibit sb. from doing 禁止某人做某事  | put up 搭建，提出（计划）  ，留宿 | provide ab. with sth. /provide sth. for sb.  | put up with 忍受",
+    "详情": "◆ put away
+  例句：Put away your toys. / Put down the book. / Put forward a suggestion. / Don't put off your work. / Put out the fire. / Put up a tent. / I can't put up with the noise.
+  辨析：put系列是高频考点，各义项差异大需逐一记忆
+
+◆ pick up
+  例句：She picked up French quickly. / I'll pick you up at 6.
+  辨析：pick up含义极多：学会/接人/捡起/好转/接收信号",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 P 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "R 组词组（16个）",
+    "核心内容": "range in...from...to （在某方面）从...到...不等 | replace A with B 用 B 取代 A | rather than 而不是 | respond to 对...作反应 | reach out for 伸出手拿 | result from 产生于，来自 | recover from 从...中恢复 | result in 导致，引起 | refer to 参阅，指的是 | reward...with... 用某物回报某人 | regard...as 把...看作 | run across 碰见，偶然发现 | regardless of 不顾，不管 | run after 追赶，追捕，跟踪 | remind sb. of sth. 提醒某人... | rush hour 高峰时间",
+    "详情": "◆ result from
+  例句：Success results from hard work. / Hard work results in success.
+  辨析：result from(源于，因→果) vs result in(导致，果←因)，方向相反",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 R 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "S 组词组（35个）",
+    "核心内容": "see through 看穿 | sooner or later 迟早 | see to 注意，负责（做某事） ，照顾（某人） | spare no efforts 不遗余力 | send for 派人去请 | speak highly of 高度赞扬 | separate A from B 把 A 和 B 分开 | speed up 加快速度 | serve as 充当，起...作用 | spring up 涌现 | set...free 释放 | stand for 代表 | set about 开始，着手 | stand out 突出，引人注目 | set an example 树立榜样 | stay awake 醒着 | set aside 留出，拨出，把...置于一旁 | stick to 坚持，忠于 | set off 出发，启程，着手（做某事） | straight away 立即，马上 | set out 出发，开始 | substitute for 代替 | set up 树立，建立，设立，提出 | succeed in 在（某方面）成功 | settle down 定居 | suffer from 承受...之苦，患病 | shortly/soon after 在...后不久 | supply ab.with.sth. 供应某人某物 | show up 出席，使显现 | surf the Internet 上网冲浪 | sign up for 报名参加 | switch off （用开关）关掉 | sit up 熬夜 | switch on （用开关）打开 | slow down 减速",
+    "详情": "◆ see through
+  例句：I saw through his lies. / See to the arrangements.
+  辨析：see through(看穿) vs see to(负责/处理)
+
+◆ stand for
+  例句：What does WTO stand for? / She stands out in the crowd.
+  辨析：stand for(代表/容忍) vs stand out(突出)
+
+◆ set about
+  例句：Set about cleaning. / Set off for Beijing. / Set out to explore. / Set up a company.
+  辨析：set about doing vs set out to do，接法不同
+
+◆ stick to
+  例句：Stick to your plan. 坚持你的计划。
+  辨析：stick to(坚持) vs insist on(坚持主张)，stick to更强调不改变",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 S 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "T 组词组（43个）",
+    "核心内容": "take great pains to do 煞费苦心做某事 | take...into consideration 把某事考虑进去 | take...as an example 举...为例 | take action 采取行动 | take...seriously 认真对待 | take advantage of 利用 | take...for granted 想当然，认为理所当然 | take effect 生效 | take in 吸收，了解，欺骗 | think of...as 把....看作 | take measures/steps 采取措施 | throw light on 阐明 | take notice of 注意 | to one’s relief 使某人宽慰的是 | take on 呈现，承担，雇佣 | to some extent 在一定程度上 | take one’s time 慢慢来 | to the point 切题 | take over 接收 | touch on 涉及到 | take part in 以...为荣 | treat....as 把....看作 | take shape 成形；出现 | try out 试用；实验 | take the advice 采纳建议 | turn a blind eye to 对....熟视无睹 | take the place of 代替 | turn down 拒绝 | take the trouble 费神 | turn in 上交；拐弯进入 | take turns 轮流 | turn out 生产；制造；结果是 | take up 从事；占去（地方、时间、注意力等） | turn over 移交；仔细考虑 | take/run the risk of 冒险  | turn sth into reality 把某事变成现实 | tear down 拆掉（旧房） | turn to 转向；求助于 | tell the truth 老实说 | turn up 开大音量；出现； | thank...for 因....而感谢 | turning point 转折点；转机 | thanks to 由于，多亏了",
+    "详情": "◆ take advantage of
+  例句：Take advantage of the opportunity. 利用这个机会。
+  辨析：take advantage of(利用)可褒可贬，make use of偏褒义
+
+◆ take...for granted
+  例句：Don't take your health for granted. 别把健康视为理所当然。
+  辨析：take...for granted 后接that从句或名词
+
+◆ take in
+  例句：I was taken in by his lies. / She took on more work. / Take over the company. / Take up a hobby.
+  辨析：take in(欺骗/吸收) vs take on(承担/呈现) vs take over(接管) vs take up(开始从事/占据)
+
+◆ turn down
+  例句：Turn down the offer. / It turned out to be true. / Turn over the page. / Turn to page 10. / He didn't turn up.
+  辨析：turn down(拒绝/调低) vs turn out(结果是) vs turn over(翻转) vs turn to(求助于/翻到) vs turn up(出现/调高)
+
+◆ thanks to
+  例句：Thanks to your help, I succeeded. 多亏你的帮助，我成功了。
+  辨析：thanks to(多亏) = due to = owing to = because of",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 T 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "U 组词组（6个）",
+    "核心内容": "under construction 在建设中 | under way 在进行中 | under no circumstances 无论在什么条件下都不  | use one’s head 动脑筋 | under pressure 在压力下 | use up 用光；耗尽",
+    "详情": "本组词组以记忆搭配为主，注意介词用法和固定搭配。",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 U 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "V 组词组（1个）",
+    "核心内容": "vice versa 反过来也一样；反之亦然",
+    "详情": "本组词组以记忆搭配为主，注意介词用法和固定搭配。",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 V 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  },
+  {
+    "tag": "高考词组表518",
+    "知识点": "W 组词组（8个）",
+    "核心内容": "warn sb. of/against sth. 警告某人某事 | within/ out of one’s reach  | watch out for 留神                                            在伸手够得到、够不到的地方 | when it comes to 当谈到 | without exception 毫无例外地 | with one voice 异口同声 | would rather do A than do B 宁可做 A 而不做 B  | with the rise of 随着...的兴起/提高",
+    "详情": "◆ when it comes to
+  例句：When it comes to math, he is the best. 谈到数学，他是最棒的。
+  辨析：when it comes to doing/n. 固定句型，to是介词",
+    "名句": "",
+    "易错": "注意介词搭配（to/for/with/of/from等）、及物与不及物、主动与被动、相近词组辨析",
+    "记忆技巧": "按字母 W 分组记忆，每天攻克一个字母组；先记核心词组（有例句的），再扩展其余；注意形近词组的对比记忆。"
+  }
+],
   "历史": [
     { tag: "概念·示例", 知识点: "郡县制", 核心内容: "定义：中央直接管辖地方、官员由皇帝任免的行政制度。背景：秦始皇统一后废分封行郡县。影响：加强中央集权，沿用两千年。", 易错: "与「分封制」对比：官员世袭 vs 任免。", 记忆技巧: "四要素：定义+背景+内容+影响。" },
     { tag: "年表·示例", 知识点: "工业革命时间轴", 核心内容: "1765 珍妮机→1785 瓦特蒸汽机→19C 中期英国完成→向欧美扩展。", 易错: "第一次（蒸汽）与第二次（电力）勿混。", 记忆技巧: "「蒸汽开路，电力接力」。" }

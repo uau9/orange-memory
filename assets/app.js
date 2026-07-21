@@ -64,7 +64,7 @@
   function renderCountdown() {
     const now = new Date();
     const days = Math.ceil((GAOKAO_DATE - now) / 86400000);
-    document.getElementById("countdown").textContent = days > 0 ? `距离 2027 高考还有 ${days} 天` : "高考进行中，加油！";
+    document.getElementById("countdown").textContent = days > 0 ? `剩余：${days} 天` : "高考进行中，加油！";
   }
 
   // === 标签 ===

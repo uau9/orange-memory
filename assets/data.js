@@ -68,10 +68,10 @@ window.SUBJECTS = {
     { tag: "公式·示例", 知识点: "等差数列前 n 项和", 核心内容: "Sn = n(a1+an)/2 = n·a1 + n(n-1)d/2。", 易错: "n 从 1 开始；d 可正可负；与等比数列勿混。", 记忆技巧: "「首项尾项配对数」联想梯形面积。" },
     { tag: "二级结论·示例", 知识点: "椭圆焦点三角形面积公式", 核心内容: "S = b²·tan(θ/2)，θ 为 ∠F1PF2。", 易错: "仅适用于椭圆；解答题须先推导再使用。", 记忆技巧: "选择填空可直接用，解答题要写过程。" }
   ],
-  "英语": [
+  "英语词组518": [
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "1. a great drain on sth.           对…巨大的消耗             22. as far as                     就…而言,远到…组",
     "tag": "高考词组表518",
     "知识点": "a great drain on sth.",
     "核心内容": "对…巨大的消耗",
@@ -82,7 +82,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "1. a great drain on sth.           对…巨大的消耗             22. as far as                     就…而言,远到…组",
     "tag": "高考词组表518",
     "知识点": "as far as",
     "核心内容": "就…而言,远到…",
@@ -93,7 +93,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "2. account for                     说明,解释                                                 到…程度(表示程度范围)组",
     "tag": "高考词组表518",
     "知识点": "account for",
     "核心内容": "说明,解释                                                 到…程度(表示程度范围)",
@@ -104,7 +104,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "3. accuse … of...                  指控…,谴责…             23.   as usual                    照常组",
     "tag": "高考词组表518",
     "知识点": "accuse … of...",
     "核心内容": "指控…,谴责…",
@@ -115,7 +115,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "3. accuse … of...                  指控…,谴责…             23.   as usual                    照常组",
     "tag": "高考词组表518",
     "知识点": "as usual",
     "核心内容": "照常",
@@ -126,7 +126,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "4. act as                          担任;充当               24.   ask a favor of              请…帮个忙组",
     "tag": "高考词组表518",
     "知识点": "act as",
     "核心内容": "担任;充当",
@@ -137,7 +137,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "4. act as                          担任;充当               24.   ask a favor of              请…帮个忙组",
     "tag": "高考词组表518",
     "知识点": "ask a favor of",
     "核心内容": "请…帮个忙",
@@ -148,7 +148,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "5. adapt(…) to …                   使适应                 25.   ask about                   查问,打听组",
     "tag": "高考词组表518",
     "知识点": "adapt(…) to …",
     "核心内容": "使适应",
@@ -159,7 +159,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "5. adapt(…) to …                   使适应                 25.   ask about                   查问,打听组",
     "tag": "高考词组表518",
     "知识点": "ask about",
     "核心内容": "查问,打听",
@@ -170,7 +170,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "6. add to                          增添                  26.   ask after                   问候组",
     "tag": "高考词组表518",
     "知识点": "add to",
     "核心内容": "增添",
@@ -181,7 +181,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "6. add to                          增添                  26.   ask after                   问候组",
     "tag": "高考词组表518",
     "知识点": "ask after",
     "核心内容": "问候",
@@ -192,7 +192,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "7. add up to                       合计达                 27.   associate A with B          把 A 和 B 联系起来组",
     "tag": "高考词组表518",
     "知识点": "add up to",
     "核心内容": "合计达",
@@ -203,7 +203,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "7. add up to                       合计达                 27.   associate A with B          把 A 和 B 联系起来组",
     "tag": "高考词组表518",
     "知识点": "associate A with B",
     "核心内容": "把 A 和 B 联系起来",
@@ -214,7 +214,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "8. adjust (…) to                   (使)适应               28.   assure ...of                向...保证组",
     "tag": "高考词组表518",
     "知识点": "adjust (…) to",
     "核心内容": "(使)适应",
@@ -225,7 +225,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "8. adjust (…) to                   (使)适应               28.   assure ...of                向...保证组",
     "tag": "高考词组表518",
     "知识点": "assure ...of",
     "核心内容": "向...保证",
@@ -236,7 +236,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "9. admit … to/into                 准许…进人               29.   at a loss                   茫然不知所措组",
     "tag": "高考词组表518",
     "知识点": "admit … to/into",
     "核心内容": "准许…进人",
@@ -247,7 +247,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "9. admit … to/into                 准许…进人               29.   at a loss                   茫然不知所措组",
     "tag": "高考词组表518",
     "知识点": "at a loss",
     "核心内容": "茫然不知所措",
@@ -258,7 +258,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "10. agree on                       就…取得一致              30.   at all costs/at any cost    不惜一切代价组",
     "tag": "高考词组表518",
     "知识点": "agree on",
     "核心内容": "就…取得一致",
@@ -269,7 +269,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "10. agree on                       就…取得一致              30.   at all costs/at any cost    不惜一切代价组",
     "tag": "高考词组表518",
     "知识点": "at all costs/at any cost",
     "核心内容": "不惜一切代价",
@@ -280,7 +280,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "11. agree to                       同意某人观点、意见           31.   at first sight              乍一看组",
     "tag": "高考词组表518",
     "知识点": "agree to",
     "核心内容": "同意某人观点、意见",
@@ -291,7 +291,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "11. agree to                       同意某人观点、意见           31.   at first sight              乍一看组",
     "tag": "高考词组表518",
     "知识点": "at first sight",
     "核心内容": "乍一看",
@@ -302,7 +302,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "12. agree with…                    同意……的意见;适合          32.   at one time                 一度组",
     "tag": "高考词组表518",
     "知识点": "agree with…",
     "核心内容": "同意……的意见;适合",
@@ -313,7 +313,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "12. agree with…                    同意……的意见;适合          32.   at one time                 一度组",
     "tag": "高考词组表518",
     "知识点": "at one time",
     "核心内容": "一度",
@@ -324,7 +324,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "13. ahead of time/ schedule        提前                  33.   at present                  现在，目前组",
     "tag": "高考词组表518",
     "知识点": "ahead of time/ schedule",
     "核心内容": "提前",
@@ -335,7 +335,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "13. ahead of time/ schedule        提前                  33.   at present                  现在，目前组",
     "tag": "高考词组表518",
     "知识点": "at present",
     "核心内容": "现在，目前",
@@ -346,7 +346,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "14. aim at                         瞄准,争取               34.   at the cost of              以...为代价组",
     "tag": "高考词组表518",
     "知识点": "aim at",
     "核心内容": "瞄准,争取",
@@ -357,7 +357,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "14. aim at                         瞄准,争取               34.   at the cost of              以...为代价组",
     "tag": "高考词组表518",
     "知识点": "at the cost of",
     "核心内容": "以...为代价",
@@ -368,7 +368,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "15. appeal to                      呼吁;吸引               35.   at the mercy of             任由...摆布组",
     "tag": "高考词组表518",
     "知识点": "appeal to",
     "核心内容": "呼吁;吸引",
@@ -379,7 +379,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "15. appeal to                      呼吁;吸引               35.   at the mercy of             任由...摆布组",
     "tag": "高考词组表518",
     "知识点": "at the mercy of",
     "核心内容": "任由...摆布",
@@ -390,7 +390,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "16. apply for                      申请                  36.   at the moment               此刻，目前；那时，当时组",
     "tag": "高考词组表518",
     "知识点": "apply for",
     "核心内容": "申请",
@@ -401,7 +401,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "16. apply for                      申请                  36.   at the moment               此刻，目前；那时，当时组",
     "tag": "高考词组表518",
     "知识点": "at the moment",
     "核心内容": "此刻，目前；那时，当时",
@@ -412,7 +412,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "17. apply… to...                   把……应用于…             37.   at the risk of one’s life   冒着生命危险组",
     "tag": "高考词组表518",
     "知识点": "apply… to...",
     "核心内容": "把……应用于…",
@@ -423,7 +423,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "17. apply… to...                   把……应用于…             37.   at the risk of one’s life   冒着生命危险组",
     "tag": "高考词组表518",
     "知识点": "at the risk of one’s life",
     "核心内容": "冒着生命危险",
@@ -434,7 +434,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "18. approve of                     赞成                  38.   at times                    有时组",
     "tag": "高考词组表518",
     "知识点": "approve of",
     "核心内容": "赞成",
@@ -445,7 +445,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "18. approve of                     赞成                  38.   at times                    有时组",
     "tag": "高考词组表518",
     "知识点": "at times",
     "核心内容": "有时",
@@ -456,7 +456,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "19. a matter of fact               事实上                 39.   attach...to                 把..依附于组",
     "tag": "高考词组表518",
     "知识点": "a matter of fact",
     "核心内容": "事实上",
@@ -467,7 +467,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "19. a matter of fact               事实上                 39.   attach...to                 把..依附于组",
     "tag": "高考词组表518",
     "知识点": "attach...to",
     "核心内容": "把..依附于",
@@ -478,7 +478,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "20. as a result                    作为结果;因此             40.   attach importance to        重视组",
     "tag": "高考词组表518",
     "知识点": "as a result",
     "核心内容": "作为结果;因此",
@@ -489,7 +489,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "20. as a result                    作为结果;因此             40.   attach importance to        重视组",
     "tag": "高考词组表518",
     "知识点": "attach importance to",
     "核心内容": "重视",
@@ -500,7 +500,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "21. as a whole                     作为整体,就整体来看          41.   award sb. sth               授予某人某物组",
     "tag": "高考词组表518",
     "知识点": "as a whole",
     "核心内容": "作为整体,就整体来看",
@@ -511,7 +511,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "A组",
+    "level3": "21. as a whole                     作为整体,就整体来看          41.   award sb. sth               授予某人某物组",
     "tag": "高考词组表518",
     "知识点": "award sb. sth",
     "核心内容": "授予某人某物",
@@ -522,7 +522,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "1. base...on..               .     把...放在...的基础上       24.   be grateful /thankful to sb. for sth .因某事感激某人组",
     "tag": "高考词组表518",
     "知识点": "base...on..",
     "核心内容": ".     把...放在...的基础上",
@@ -533,7 +533,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "1. base...on..               .     把...放在...的基础上       24.   be grateful /thankful to sb. for sth .因某事感激某人组",
     "tag": "高考词组表518",
     "知识点": "be grateful /thankful to sb. for sth .因某事感激某人",
     "核心内容": "",
@@ -544,7 +544,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "2. be absent from                  缺席                  25.   be ignorant of                  对某事一无所知组",
     "tag": "高考词组表518",
     "知识点": "be absent from",
     "核心内容": "缺席",
@@ -555,7 +555,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "2. be absent from                  缺席                  25.   be ignorant of                  对某事一无所知组",
     "tag": "高考词组表518",
     "知识点": "be ignorant of",
     "核心内容": "对某事一无所知",
@@ -566,7 +566,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "3. be absorbed in ...              全神贯注于...            26.   be in favour of           支持（赞成）...组",
     "tag": "高考词组表518",
     "知识点": "be absorbed in ...",
     "核心内容": "全神贯注于...",
@@ -577,7 +577,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "3. be absorbed in ...              全神贯注于...            26.   be in favour of           支持（赞成）...组",
     "tag": "高考词组表518",
     "知识点": "be in favour of",
     "核心内容": "支持（赞成）...",
@@ -588,7 +588,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "4. be accustomed to doing          习惯于做                27.   be independent of         独立于组",
     "tag": "高考词组表518",
     "知识点": "be accustomed to doing",
     "核心内容": "习惯于做",
@@ -599,7 +599,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "4. be accustomed to doing          习惯于做                27.   be independent of         独立于组",
     "tag": "高考词组表518",
     "知识点": "be independent of",
     "核心内容": "独立于",
@@ -610,7 +610,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "5. be anxious about                担忧                  28.   be infected with          受感染组",
     "tag": "高考词组表518",
     "知识点": "be anxious about",
     "核心内容": "担忧",
@@ -621,7 +621,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "5. be anxious about                担忧                  28.   be infected with          受感染组",
     "tag": "高考词组表518",
     "知识点": "be infected with",
     "核心内容": "受感染",
@@ -632,7 +632,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "6. be aware of                     意识到的                29.   be inferior to            较低于，与...相比不如组",
     "tag": "高考词组表518",
     "知识点": "be aware of",
     "核心内容": "意识到的",
@@ -643,7 +643,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "6. be aware of                     意识到的                29.   be inferior to            较低于，与...相比不如组",
     "tag": "高考词组表518",
     "知识点": "be inferior to",
     "核心内容": "较低于，与...相比不如",
@@ -654,7 +654,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "7. be capable of                   有能力                 30.   be involved in            卷入，参与组",
     "tag": "高考词组表518",
     "知识点": "be capable of",
     "核心内容": "有能力",
@@ -665,7 +665,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "7. be capable of                   有能力                 30.   be involved in            卷入，参与组",
     "tag": "高考词组表518",
     "知识点": "be involved in",
     "核心内容": "卷入，参与",
@@ -676,7 +676,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "8. be composed of ...              由...组成              31.   be located (in)           坐落（在）组",
     "tag": "高考词组表518",
     "知识点": "be composed of ...",
     "核心内容": "由...组成",
@@ -687,7 +687,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "8. be composed of ...              由...组成              31.   be located (in)           坐落（在）组",
     "tag": "高考词组表518",
     "知识点": "be located (in)",
     "核心内容": "坐落（在）",
@@ -698,7 +698,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "9. be concerned about              关心                  32.   be lost in thought        陷入沉思组",
     "tag": "高考词组表518",
     "知识点": "be concerned about",
     "核心内容": "关心",
@@ -709,7 +709,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "9. be concerned about              关心                  32.   be lost in thought        陷入沉思组",
     "tag": "高考词组表518",
     "知识点": "be lost in thought",
     "核心内容": "陷入沉思",
@@ -720,7 +720,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "10. be confident of                对....有信心            33.   be of good/poor quality 质量好/差组",
     "tag": "高考词组表518",
     "知识点": "be confident of",
     "核心内容": "对....有信心",
@@ -731,7 +731,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "10. be confident of                对....有信心            33.   be of good/poor quality 质量好/差组",
     "tag": "高考词组表518",
     "知识点": "be of good/poor quality 质量好/差",
     "核心内容": "",
@@ -742,7 +742,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "11. be considerate of sb.to do sth 某人做某事考虑周到           34.   be on a diet              节食组",
     "tag": "高考词组表518",
     "知识点": "be considerate of sb.to do sth 某人做某事考虑周到",
     "核心内容": "",
@@ -753,7 +753,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "11. be considerate of sb.to do sth 某人做某事考虑周到           34.   be on a diet              节食组",
     "tag": "高考词组表518",
     "知识点": "be on a diet",
     "核心内容": "节食",
@@ -764,7 +764,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "12. be contrary to                 与......相反           35.   be opposed to doing       强烈反对做某事组",
     "tag": "高考词组表518",
     "知识点": "be contrary to",
     "核心内容": "与......相反",
@@ -775,7 +775,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "12. be contrary to                 与......相反           35.   be opposed to doing       强烈反对做某事组",
     "tag": "高考词组表518",
     "知识点": "be opposed to doing",
     "核心内容": "强烈反对做某事",
@@ -786,7 +786,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "13. be curious about               对...好奇              36.   be particular about       对...挑剔组",
     "tag": "高考词组表518",
     "知识点": "be curious about",
     "核心内容": "对...好奇",
@@ -797,7 +797,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "13. be curious about               对...好奇              36.   be particular about       对...挑剔组",
     "tag": "高考词组表518",
     "知识点": "be particular about",
     "核心内容": "对...挑剔",
@@ -808,7 +808,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "14. be determined to do            决定做某事               37.   be popular with/among 受某人欢迎组",
     "tag": "高考词组表518",
     "知识点": "be determined to do",
     "核心内容": "决定做某事",
@@ -819,7 +819,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "14. be determined to do            决定做某事               37.   be popular with/among 受某人欢迎组",
     "tag": "高考词组表518",
     "知识点": "be popular with/among 受某人欢迎",
     "核心内容": "",
@@ -830,7 +830,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "15. be down with                   由于......病倒了         38.   be present at             出席，出场组",
     "tag": "高考词组表518",
     "知识点": "be down with",
     "核心内容": "由于......病倒了",
@@ -841,7 +841,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "15. be down with                   由于......病倒了         38.   be present at             出席，出场组",
     "tag": "高考词组表518",
     "知识点": "be present at",
     "核心内容": "出席，出场",
@@ -852,7 +852,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "16. be engaged in                  忙于做某事               39.   be qualified for          可胜任...组",
     "tag": "高考词组表518",
     "知识点": "be engaged in",
     "核心内容": "忙于做某事",
@@ -863,7 +863,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "16. be engaged in                  忙于做某事               39.   be qualified for          可胜任...组",
     "tag": "高考词组表518",
     "知识点": "be qualified for",
     "核心内容": "可胜任...",
@@ -874,7 +874,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "17. be equal to                    与...相等              40.   be related to             与......相关组",
     "tag": "高考词组表518",
     "知识点": "be equal to",
     "核心内容": "与...相等",
@@ -885,7 +885,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "17. be equal to                    与...相等              40.   be related to             与......相关组",
     "tag": "高考词组表518",
     "知识点": "be related to",
     "核心内容": "与......相关",
@@ -896,7 +896,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "18. be exposed to                  曝光于，接触              41.   be resistant to ...       对...有抵抗力组",
     "tag": "高考词组表518",
     "知识点": "be exposed to",
     "核心内容": "曝光于，接触",
@@ -907,7 +907,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "18. be exposed to                  曝光于，接触              41.   be resistant to ...       对...有抵抗力组",
     "tag": "高考词组表518",
     "知识点": "be resistant to ...",
     "核心内容": "对...有抵抗力",
@@ -918,7 +918,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "19. be faced with sth.             面对...               42.   be responsible for        对...负责任组",
     "tag": "高考词组表518",
     "知识点": "be faced with sth.",
     "核心内容": "面对...",
@@ -929,7 +929,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "19. be faced with sth.             面对...               42.   be responsible for        对...负责任组",
     "tag": "高考词组表518",
     "知识点": "be responsible for",
     "核心内容": "对...负责任",
@@ -940,7 +940,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "20. be familiar with               对...熟悉              43.   be satisfied with         对...感到满意组",
     "tag": "高考词组表518",
     "知识点": "be familiar with",
     "核心内容": "对...熟悉",
@@ -951,7 +951,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "20. be familiar with               对...熟悉              43.   be satisfied with         对...感到满意组",
     "tag": "高考词组表518",
     "知识点": "be satisfied with",
     "核心内容": "对...感到满意",
@@ -962,7 +962,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "21. be fed up with                 对...厌烦              44.   be second to none         第一，不次于任何人组",
     "tag": "高考词组表518",
     "知识点": "be fed up with",
     "核心内容": "对...厌烦",
@@ -973,7 +973,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "21. be fed up with                 对...厌烦              44.   be second to none         第一，不次于任何人组",
     "tag": "高考词组表518",
     "知识点": "be second to none",
     "核心内容": "第一，不次于任何人",
@@ -984,7 +984,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "22. be fit for                     适合                  45.   be short of               缺乏组",
     "tag": "高考词组表518",
     "知识点": "be fit for",
     "核心内容": "适合",
@@ -995,7 +995,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "22. be fit for                     适合                  45.   be short of               缺乏组",
     "tag": "高考词组表518",
     "知识点": "be short of",
     "核心内容": "缺乏",
@@ -1006,7 +1006,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "23. be free from                   没有…的                46.   be similar to             与......相似组",
     "tag": "高考词组表518",
     "知识点": "be free from",
     "核心内容": "没有…的",
@@ -1017,7 +1017,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "23. be free from                   没有…的                46.   be similar to             与......相似组",
     "tag": "高考词组表518",
     "知识点": "be similar to",
     "核心内容": "与......相似",
@@ -1028,7 +1028,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "47.   be strict with         对......严格                65.   break the law         违法组",
     "tag": "高考词组表518",
     "知识点": "be strict with",
     "核心内容": "对......严格",
@@ -1039,7 +1039,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "47.   be strict with         对......严格                65.   break the law         违法组",
     "tag": "高考词组表518",
     "知识点": "break the law",
     "核心内容": "违法",
@@ -1050,7 +1050,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "48.   be suitable for        适合......                 66.   break through         突破；突围组",
     "tag": "高考词组表518",
     "知识点": "be suitable for",
     "核心内容": "适合......",
@@ -1061,7 +1061,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "48.   be suitable for        适合......                 66.   break through         突破；突围组",
     "tag": "高考词组表518",
     "知识点": "break through",
     "核心内容": "突破；突围",
@@ -1072,7 +1072,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "49.   be superior to         优于......                 67.   bring...to an end   结束组",
     "tag": "高考词组表518",
     "知识点": "be superior to",
     "核心内容": "优于......",
@@ -1083,7 +1083,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "49.   be superior to         优于......                 67.   bring...to an end   结束组",
     "tag": "高考词组表518",
     "知识点": "bring...to an end",
     "核心内容": "结束",
@@ -1094,7 +1094,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "50.   be sure of             坚信；确信                    68.   bring...to life     使……苏醒组",
     "tag": "高考词组表518",
     "知识点": "be sure of",
     "核心内容": "坚信；确信",
@@ -1105,7 +1105,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "50.   be sure of             坚信；确信                    68.   bring...to life     使……苏醒组",
     "tag": "高考词组表518",
     "知识点": "bring...to life",
     "核心内容": "使……苏醒",
@@ -1116,7 +1116,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "51.   be worried about            为......担心           69.   bring about         引起组",
     "tag": "高考词组表518",
     "知识点": "be worried about",
     "核心内容": "为......担心",
@@ -1127,7 +1127,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "51.   be worried about            为......担心           69.   bring about         引起组",
     "tag": "高考词组表518",
     "知识点": "bring about",
     "核心内容": "引起",
@@ -1138,7 +1138,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "52.   be/get used to              习惯于......           70.   bring up            抚养组",
     "tag": "高考词组表518",
     "知识点": "be/get used to",
     "核心内容": "习惯于......",
@@ -1149,7 +1149,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "52.   be/get used to              习惯于......           70.   bring up            抚养组",
     "tag": "高考词组表518",
     "知识点": "bring up",
     "核心内容": "抚养",
@@ -1160,7 +1160,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "53.   bear ...in mind             把......牢记在心         71.   build up            建立，树立组",
     "tag": "高考词组表518",
     "知识点": "bear ...in mind",
     "核心内容": "把......牢记在心",
@@ -1171,7 +1171,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "53.   bear ...in mind             把......牢记在心         71.   build up            建立，树立组",
     "tag": "高考词组表518",
     "知识点": "build up",
     "核心内容": "建立，树立",
@@ -1182,7 +1182,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "54.   begin with                  由......开始           72.   bump into           装上；碰见组",
     "tag": "高考词组表518",
     "知识点": "begin with",
     "核心内容": "由......开始",
@@ -1193,7 +1193,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "54.   begin with                  由......开始           72.   bump into           装上；碰见组",
     "tag": "高考词组表518",
     "知识点": "bump into",
     "核心内容": "装上；碰见",
@@ -1204,7 +1204,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "55.   behave oneself              行为检点，守规矩            73.   burst into          突然发作; 突然……起来组",
     "tag": "高考词组表518",
     "知识点": "behave oneself",
     "核心内容": "行为检点，守规矩",
@@ -1215,7 +1215,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "55.   behave oneself              行为检点，守规矩            73.   burst into          突然发作; 突然……起来组",
     "tag": "高考词组表518",
     "知识点": "burst into",
     "核心内容": "突然发作; 突然……起来",
@@ -1226,7 +1226,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "56.   believe in                  信仰，对......有信心       74.   by accident         意外地；偶然组",
     "tag": "高考词组表518",
     "知识点": "believe in",
     "核心内容": "信仰，对......有信心",
@@ -1237,7 +1237,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "56.   believe in                  信仰，对......有信心       74.   by accident         意外地；偶然组",
     "tag": "高考词组表518",
     "知识点": "by accident",
     "核心内容": "意外地；偶然",
@@ -1248,7 +1248,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "57.   believe it or not           信不信由你               75.   by all means        一定组",
     "tag": "高考词组表518",
     "知识点": "believe it or not",
     "核心内容": "信不信由你",
@@ -1259,7 +1259,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "57.   believe it or not           信不信由你               75.   by all means        一定组",
     "tag": "高考词组表518",
     "知识点": "by all means",
     "核心内容": "一定",
@@ -1270,7 +1270,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "58.   benefit from                得益于                 76.   by comparison       比较起来，相比之下组",
     "tag": "高考词组表518",
     "知识点": "benefit from",
     "核心内容": "得益于",
@@ -1281,7 +1281,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "58.   benefit from                得益于                 76.   by comparison       比较起来，相比之下组",
     "tag": "高考词组表518",
     "知识点": "by comparison",
     "核心内容": "比较起来，相比之下",
@@ -1292,7 +1292,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "59.   beyond /within one’s power 力所不及 力所能及            77.   by means of         用；依靠组",
     "tag": "高考词组表518",
     "知识点": "beyond /within one’s power 力所不及 力所能及",
     "核心内容": "",
@@ -1303,7 +1303,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "59.   beyond /within one’s power 力所不及 力所能及            77.   by means of         用；依靠组",
     "tag": "高考词组表518",
     "知识点": "by means of",
     "核心内容": "用；依靠",
@@ -1314,7 +1314,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "60.   beyond description          难以描述                78.   by mistake          弄错组",
     "tag": "高考词组表518",
     "知识点": "beyond description",
     "核心内容": "难以描述",
@@ -1325,7 +1325,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "60.   beyond description          难以描述                78.   by mistake          弄错组",
     "tag": "高考词组表518",
     "知识点": "by mistake",
     "核心内容": "弄错",
@@ -1336,7 +1336,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "61.   blame……for                  因…责备某人              79.   by no means         决不组",
     "tag": "高考词组表518",
     "知识点": "blame……for",
     "核心内容": "因…责备某人",
@@ -1347,7 +1347,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "61.   blame……for                  因…责备某人              79.   by no means         决不组",
     "tag": "高考词组表518",
     "知识点": "by no means",
     "核心内容": "决不",
@@ -1358,7 +1358,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "62.   break away from             脱离,逃跑               80.   by the dozen        以打计组",
     "tag": "高考词组表518",
     "知识点": "break away from",
     "核心内容": "脱离,逃跑",
@@ -1369,7 +1369,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "62.   break away from             脱离,逃跑               80.   by the dozen        以打计组",
     "tag": "高考词组表518",
     "知识点": "by the dozen",
     "核心内容": "以打计",
@@ -1380,7 +1380,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "63.   break down                  抛锚；倒塌；中止            81.   by this means       用这种方法组",
     "tag": "高考词组表518",
     "知识点": "break down",
     "核心内容": "抛锚；倒塌；中止",
@@ -1391,7 +1391,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "63.   break down                  抛锚；倒塌；中止            81.   by this means       用这种方法组",
     "tag": "高考词组表518",
     "知识点": "by this means",
     "核心内容": "用这种方法",
@@ -1402,7 +1402,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "64.   beak out                    爆发                  82.   by/in contrast      对比之下组",
     "tag": "高考词组表518",
     "知识点": "beak out",
     "核心内容": "爆发",
@@ -1413,7 +1413,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "B组",
+    "level3": "64.   beak out                    爆发                  82.   by/in contrast      对比之下组",
     "tag": "高考词组表518",
     "知识点": "by/in contrast",
     "核心内容": "对比之下",
@@ -1424,7 +1424,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "1.    call at                      访问某地               25.   come to/arrive at a conclusion  得出结论组",
     "tag": "高考词组表518",
     "知识点": "call at",
     "核心内容": "访问某地",
@@ -1435,7 +1435,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "1.    call at                      访问某地               25.   come to/arrive at a conclusion  得出结论组",
     "tag": "高考词组表518",
     "知识点": "come to/arrive at a conclusion",
     "核心内容": "得出结论",
@@ -1446,7 +1446,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "2.    call for                     要求；需要              26.   come up with             提出组",
     "tag": "高考词组表518",
     "知识点": "call for",
     "核心内容": "要求；需要",
@@ -1457,7 +1457,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "2.    call for                     要求；需要              26.   come up with             提出组",
     "tag": "高考词组表518",
     "知识点": "come up with",
     "核心内容": "提出",
@@ -1468,7 +1468,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "3.    call in             顺路到（某处）      ；请某人来帮忙        27.   come up                  走近；长出来组",
     "tag": "高考词组表518",
     "知识点": "call in",
     "核心内容": "顺路到（某处）      ；请某人来帮忙",
@@ -1479,7 +1479,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "3.    call in             顺路到（某处）      ；请某人来帮忙        27.   come up                  走近；长出来组",
     "tag": "高考词组表518",
     "知识点": "come up",
     "核心内容": "走近；长出来",
@@ -1490,7 +1490,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "4.    call off                     取消                 28.   comment on               评论组",
     "tag": "高考词组表518",
     "知识点": "call off",
     "核心内容": "取消",
@@ -1501,7 +1501,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "4.    call off                     取消                 28.   comment on               评论组",
     "tag": "高考词组表518",
     "知识点": "comment on",
     "核心内容": "评论",
@@ -1512,7 +1512,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "5.    call on                      拜访某人；号召            29.   commit a crime           犯罪组",
     "tag": "高考词组表518",
     "知识点": "call on",
     "核心内容": "拜访某人；号召",
@@ -1523,7 +1523,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "5.    call on                      拜访某人；号召            29.   commit a crime           犯罪组",
     "tag": "高考词组表518",
     "知识点": "commit a crime",
     "核心内容": "犯罪",
@@ -1534,7 +1534,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "6.    call out                     大声叫唤；唤起            30.   common knowledge         常识组",
     "tag": "高考词组表518",
     "知识点": "call out",
     "核心内容": "大声叫唤；唤起",
@@ -1545,7 +1545,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "6.    call out                     大声叫唤；唤起            30.   common knowledge         常识组",
     "tag": "高考词组表518",
     "知识点": "common knowledge",
     "核心内容": "常识",
@@ -1556,7 +1556,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "7.    care about                   关心、介意              31.   compare Ato B            把 A 比喻成 B组",
     "tag": "高考词组表518",
     "知识点": "care about",
     "核心内容": "关心、介意",
@@ -1567,7 +1567,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "7.    care about                   关心、介意              31.   compare Ato B            把 A 比喻成 B组",
     "tag": "高考词组表518",
     "知识点": "compare Ato B",
     "核心内容": "把 A 比喻成 B",
@@ -1578,7 +1578,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "8.    carry on                     继续；进行              32.   compare A with B         把 A 和 B 比较组",
     "tag": "高考词组表518",
     "知识点": "carry on",
     "核心内容": "继续；进行",
@@ -1589,7 +1589,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "8.    carry on                     继续；进行              32.   compare A with B         把 A 和 B 比较组",
     "tag": "高考词组表518",
     "知识点": "compare A with B",
     "核心内容": "把 A 和 B 比较",
@@ -1600,7 +1600,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "9.    carry out                    执行；实施              33.   compete with             与…相竞争组",
     "tag": "高考词组表518",
     "知识点": "carry out",
     "核心内容": "执行；实施",
@@ -1611,7 +1611,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "9.    carry out                    执行；实施              33.   compete with             与…相竞争组",
     "tag": "高考词组表518",
     "知识点": "compete with",
     "核心内容": "与…相竞争",
@@ -1622,7 +1622,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "10.   catch one’s eye              吸引注意               34.   concentrate on           集中精力在…组",
     "tag": "高考词组表518",
     "知识点": "catch one’s eye",
     "核心内容": "吸引注意",
@@ -1633,7 +1633,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "10.   catch one’s eye              吸引注意               34.   concentrate on           集中精力在…组",
     "tag": "高考词组表518",
     "知识点": "concentrate on",
     "核心内容": "集中精力在…",
@@ -1644,7 +1644,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "11.   catch up with                赶上                 35.   conduct a survey         做一个调查组",
     "tag": "高考词组表518",
     "知识点": "catch up with",
     "核心内容": "赶上",
@@ -1655,7 +1655,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "11.   catch up with                赶上                 35.   conduct a survey         做一个调查组",
     "tag": "高考词组表518",
     "知识点": "conduct a survey",
     "核心内容": "做一个调查",
@@ -1666,7 +1666,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "12.   catch/lose sight of          看见/看不见             36.   confuse A withB          把 A 和 B 混淆组",
     "tag": "高考词组表518",
     "知识点": "catch/lose sight of",
     "核心内容": "看见/看不见",
@@ -1677,7 +1677,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "12.   catch/lose sight of          看见/看不见             36.   confuse A withB          把 A 和 B 混淆组",
     "tag": "高考词组表518",
     "知识点": "confuse A withB",
     "核心内容": "把 A 和 B 混淆",
@@ -1688,7 +1688,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "13.   change for the better /worse 好转/恶化              37.   congratulate sb.on sth. 因某事祝贺某人组",
     "tag": "高考词组表518",
     "知识点": "change for the better /worse 好转/恶化",
     "核心内容": "",
@@ -1699,7 +1699,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "13.   change for the better /worse 好转/恶化              37.   congratulate sb.on sth. 因某事祝贺某人组",
     "tag": "高考词组表518",
     "知识点": "congratulate sb.on sth. 因某事祝贺某人",
     "核心内容": "",
@@ -1710,7 +1710,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "14.   charge…with                  控告                 38.   consider...（as/to be) 把……看作组",
     "tag": "高考词组表518",
     "知识点": "charge…with",
     "核心内容": "控告",
@@ -1721,7 +1721,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "14.   charge…with                  控告                 38.   consider...（as/to be) 把……看作组",
     "tag": "高考词组表518",
     "知识点": "consider...（as/to be) 把……看作",
     "核心内容": "",
@@ -1732,7 +1732,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "15.   cheer up                     使高兴；高兴起来           39.   consist of               由……组成组",
     "tag": "高考词组表518",
     "知识点": "cheer up",
     "核心内容": "使高兴；高兴起来",
@@ -1743,7 +1743,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "15.   cheer up                     使高兴；高兴起来           39.   consist of               由……组成组",
     "tag": "高考词组表518",
     "知识点": "consist of",
     "核心内容": "由……组成",
@@ -1754,7 +1754,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "16.   clean up                     打扫干净               40.   contribute to            有助于组",
     "tag": "高考词组表518",
     "知识点": "clean up",
     "核心内容": "打扫干净",
@@ -1765,7 +1765,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "16.   clean up                     打扫干净               40.   contribute to            有助于组",
     "tag": "高考词组表518",
     "知识点": "contribute to",
     "核心内容": "有助于",
@@ -1776,7 +1776,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "17.   clear up                     澄清； （天气）变睛         41.   convince sb.of sth       使某人相信某事组",
     "tag": "高考词组表518",
     "知识点": "clear up",
     "核心内容": "澄清； （天气）变睛",
@@ -1787,7 +1787,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "17.   clear up                     澄清； （天气）变睛         41.   convince sb.of sth       使某人相信某事组",
     "tag": "高考词组表518",
     "知识点": "convince sb.of sth",
     "核心内容": "使某人相信某事",
@@ -1798,7 +1798,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "18.   combine...with...            把.….和..…结合起来       42.   cooperate with sb.       和某人合作组",
     "tag": "高考词组表518",
     "知识点": "combine...with...",
     "核心内容": "把.….和..…结合起来",
@@ -1809,7 +1809,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "18.   combine...with...            把.….和..…结合起来       42.   cooperate with sb.       和某人合作组",
     "tag": "高考词组表518",
     "知识点": "cooperate with sb.",
     "核心内容": "和某人合作",
@@ -1820,7 +1820,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "19.   come across                  不期而遇               43.   cope with                对付，应付，处理组",
     "tag": "高考词组表518",
     "知识点": "come across",
     "核心内容": "不期而遇",
@@ -1831,7 +1831,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "19.   come across                  不期而遇               43.   cope with                对付，应付，处理组",
     "tag": "高考词组表518",
     "知识点": "cope with",
     "核心内容": "对付，应付，处理",
@@ -1842,7 +1842,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "20.   come down with               患病                 44.   count on                 依靠，指望组",
     "tag": "高考词组表518",
     "知识点": "come down with",
     "核心内容": "患病",
@@ -1853,7 +1853,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "20.   come down with               患病                 44.   count on                 依靠，指望组",
     "tag": "高考词组表518",
     "知识点": "count on",
     "核心内容": "依靠，指望",
@@ -1864,7 +1864,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "21.   come into existence/being    产生、成立              45.   cover along distance     走了很长一段路组",
     "tag": "高考词组表518",
     "知识点": "come into existence/being",
     "核心内容": "产生、成立",
@@ -1875,7 +1875,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "21.   come into existence/being    产生、成立              45.   cover along distance     走了很长一段路组",
     "tag": "高考词组表518",
     "知识点": "cover along distance",
     "核心内容": "走了很长一段路",
@@ -1886,7 +1886,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "22.   come out                     出来；开花；结果是          46.   cut down on              减少组",
     "tag": "高考词组表518",
     "知识点": "come out",
     "核心内容": "出来；开花；结果是",
@@ -1897,7 +1897,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "22.   come out                     出来；开花；结果是          46.   cut down on              减少组",
     "tag": "高考词组表518",
     "知识点": "cut down on",
     "核心内容": "减少",
@@ -1908,7 +1908,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "23.   come to (oneself) 达到；共计；恢复知觉，苏醒                 47.   cut off                  切断；断绝组",
     "tag": "高考词组表518",
     "知识点": "come to (oneself) 达到；共计；恢复知觉，苏醒",
     "核心内容": "",
@@ -1919,7 +1919,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "23.   come to (oneself) 达到；共计；恢复知觉，苏醒                 47.   cut off                  切断；断绝组",
     "tag": "高考词组表518",
     "知识点": "cut off",
     "核心内容": "切断；断绝",
@@ -1930,7 +1930,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "C组",
+    "level3": "24.   come to/into power           上台，执掌组",
     "tag": "高考词组表518",
     "知识点": "come to/into power",
     "核心内容": "上台，执掌",
@@ -1941,7 +1941,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "1.    date back to           追溯到                      2.    devote oneself to doing sth. 献身于做某事组",
     "tag": "高考词组表518",
     "知识点": "date back to",
     "核心内容": "追溯到",
@@ -1952,7 +1952,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "1.    date back to           追溯到                      2.    devote oneself to doing sth. 献身于做某事组",
     "tag": "高考词组表518",
     "知识点": "devote oneself to doing sth. 献身于做某事",
     "核心内容": "",
@@ -1963,7 +1963,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "3.    die down                       逐渐平息              9.    do nothing but do         除了…什么也不做组",
     "tag": "高考词组表518",
     "知识点": "die down",
     "核心内容": "逐渐平息",
@@ -1974,7 +1974,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "3.    die down                       逐渐平息              9.    do nothing but do         除了…什么也不做组",
     "tag": "高考词组表518",
     "知识点": "do nothing but do",
     "核心内容": "除了…什么也不做",
@@ -1985,7 +1985,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "4.    die out                        灭绝                10.   draw/form/reach/ make a conclusion 得出结论组",
     "tag": "高考词组表518",
     "知识点": "die out",
     "核心内容": "灭绝",
@@ -1996,7 +1996,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "4.    die out                        灭绝                10.   draw/form/reach/ make a conclusion 得出结论组",
     "tag": "高考词组表518",
     "知识点": "draw/form/reach/ make a conclusion 得出结论",
     "核心内容": "",
@@ -2007,7 +2007,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "5.    differ from                    与.....不同          11.   draw/attract one’s attention 吸引某人的注意组",
     "tag": "高考词组表518",
     "知识点": "differ from",
     "核心内容": "与.....不同",
@@ -2018,7 +2018,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "5.    differ from                    与.....不同          11.   draw/attract one’s attention 吸引某人的注意组",
     "tag": "高考词组表518",
     "知识点": "draw/attract one’s attention 吸引某人的注意",
     "核心内容": "",
@@ -2029,7 +2029,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "6.    distinguish...from...     把......区别于......       12.   draw sb mad                  把某人逼疯组",
     "tag": "高考词组表518",
     "知识点": "distinguish...from...",
     "核心内容": "把......区别于......",
@@ -2040,7 +2040,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "6.    distinguish...from...     把......区别于......       12.   draw sb mad                  把某人逼疯组",
     "tag": "高考词组表518",
     "知识点": "draw sb mad",
     "核心内容": "把某人逼疯",
@@ -2051,7 +2051,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "7.    divide...into             把......分成              13.   drop in on/at             顺便拜访组",
     "tag": "高考词组表518",
     "知识点": "divide...into",
     "核心内容": "把......分成",
@@ -2062,7 +2062,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "7.    divide...into             把......分成              13.   drop in on/at             顺便拜访组",
     "tag": "高考词组表518",
     "知识点": "drop in on/at",
     "核心内容": "顺便拜访",
@@ -2073,7 +2073,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "8.    do harm/good to           对…有害处／好处               14.   due to                    由于；因为组",
     "tag": "高考词组表518",
     "知识点": "do harm/good to",
     "核心内容": "对…有害处／好处",
@@ -2084,7 +2084,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "D组",
+    "level3": "8.    do harm/good to           对…有害处／好处               14.   due to                    由于；因为组",
     "tag": "高考词组表518",
     "知识点": "due to",
     "核心内容": "由于；因为",
@@ -2095,7 +2095,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "E组",
+    "level3": "1.    end up with                  以……告终               5.    escape from          从……逃离组",
     "tag": "高考词组表518",
     "知识点": "end up with",
     "核心内容": "以……告终",
@@ -2106,7 +2106,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "E组",
+    "level3": "1.    end up with                  以……告终               5.    escape from          从……逃离组",
     "tag": "高考词组表518",
     "知识点": "escape from",
     "核心内容": "从……逃离",
@@ -2117,7 +2117,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "E组",
+    "level3": "2.    enter for/sign up for        报名参加                6.    ever since           从那时起直至今日组",
     "tag": "高考词组表518",
     "知识点": "enter for/sign up for",
     "核心内容": "报名参加",
@@ -2128,7 +2128,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "E组",
+    "level3": "2.    enter for/sign up for        报名参加                6.    ever since           从那时起直至今日组",
     "tag": "高考词组表518",
     "知识点": "ever since",
     "核心内容": "从那时起直至今日",
@@ -2139,7 +2139,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "E组",
+    "level3": "3.    entertain sb. with sth.      用……来招待某人            7.    exchange A for B     用 A 交换 B组",
     "tag": "高考词组表518",
     "知识点": "entertain sb. with sth.",
     "核心内容": "用……来招待某人",
@@ -2150,7 +2150,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "E组",
+    "level3": "3.    entertain sb. with sth.      用……来招待某人            7.    exchange A for B     用 A 交换 B组",
     "tag": "高考词组表518",
     "知识点": "exchange A for B",
     "核心内容": "用 A 交换 B",
@@ -2161,7 +2161,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "E组",
+    "level3": "4.    equip sb. with sth.          用……来装备某人组",
     "tag": "高考词组表518",
     "知识点": "equip sb. with sth.",
     "核心内容": "用……来装备某人",
@@ -2172,7 +2172,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "1.    face up to                  勇敢面对组",
     "tag": "高考词组表518",
     "知识点": "face up to",
     "核心内容": "勇敢面对",
@@ -2183,7 +2183,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "2.    fall in love with...        爱上某人                 12.   focus (one’s attention) on   集中注意组",
     "tag": "高考词组表518",
     "知识点": "fall in love with...",
     "核心内容": "爱上某人",
@@ -2194,7 +2194,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "2.    fall in love with...        爱上某人                 12.   focus (one’s attention) on   集中注意组",
     "tag": "高考词组表518",
     "知识点": "focus (one’s attention) on",
     "核心内容": "集中注意",
@@ -2205,7 +2205,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "3.    fall off                    跌落                   13.   follow one’s example 学某人的样子组",
     "tag": "高考词组表518",
     "知识点": "fall off",
     "核心内容": "跌落",
@@ -2216,7 +2216,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "3.    fall off                    跌落                   13.   follow one’s example 学某人的样子组",
     "tag": "高考词组表518",
     "知识点": "follow one’s example 学某人的样子",
     "核心内容": "",
@@ -2227,7 +2227,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "4.    fall on                   落在某一天；责任落在某            14.   food for thought          应思考的问题组",
     "tag": "高考词组表518",
     "知识点": "fall on",
     "核心内容": "落在某一天；责任落在某",
@@ -2238,7 +2238,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "4.    fall on                   落在某一天；责任落在某            14.   food for thought          应思考的问题组",
     "tag": "高考词组表518",
     "知识点": "food for thought",
     "核心内容": "应思考的问题",
@@ -2249,7 +2249,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "5.    far from enough             远远不够                 15.   for free                  免费地；无偿地组",
     "tag": "高考词组表518",
     "知识点": "far from enough",
     "核心内容": "远远不够",
@@ -2260,7 +2260,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "5.    far from enough             远远不够                 15.   for free                  免费地；无偿地组",
     "tag": "高考词组表518",
     "知识点": "for free",
     "核心内容": "免费地；无偿地",
@@ -2271,7 +2271,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "6.    fight against               与…斗争                 16.   for the sake of           为了…...利益组",
     "tag": "高考词组表518",
     "知识点": "fight against",
     "核心内容": "与…斗争",
@@ -2282,7 +2282,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "6.    fight against               与…斗争                 16.   for the sake of           为了…...利益组",
     "tag": "高考词组表518",
     "知识点": "for the sake of",
     "核心内容": "为了…...利益",
@@ -2293,7 +2293,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "7.    figure out                  算出，推测出               17.   forgive sb. for           因…而原谅某人组",
     "tag": "高考词组表518",
     "知识点": "figure out",
     "核心内容": "算出，推测出",
@@ -2304,7 +2304,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "7.    figure out                  算出，推测出               17.   forgive sb. for           因…而原谅某人组",
     "tag": "高考词组表518",
     "知识点": "forgive sb. for",
     "核心内容": "因…而原谅某人",
@@ -2315,7 +2315,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "8.    fill...with                 用…充满                 18.   form the habit of         养成某种习惯组",
     "tag": "高考词组表518",
     "知识点": "fill...with",
     "核心内容": "用…充满",
@@ -2326,7 +2326,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "8.    fill...with                 用…充满                 18.   form the habit of         养成某种习惯组",
     "tag": "高考词组表518",
     "知识点": "form the habit of",
     "核心内容": "养成某种习惯",
@@ -2337,7 +2337,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "9.    find an excuse              找借口                  19.   free of charge            免费组",
     "tag": "高考词组表518",
     "知识点": "find an excuse",
     "核心内容": "找借口",
@@ -2348,7 +2348,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "9.    find an excuse              找借口                  19.   free of charge            免费组",
     "tag": "高考词组表518",
     "知识点": "free of charge",
     "核心内容": "免费",
@@ -2359,7 +2359,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "10.   find fault with             挑…毛柄                 20.   from the bottom of one’s heart组",
     "tag": "高考词组表518",
     "知识点": "find fault with",
     "核心内容": "挑…毛柄",
@@ -2370,7 +2370,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "10.   find fault with             挑…毛柄                 20.   from the bottom of one’s heart组",
     "tag": "高考词组表518",
     "知识点": "from the bottom of one’s heart",
     "核心内容": "",
@@ -2381,7 +2381,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "F组",
+    "level3": "11.   fit in with                 适合                                                   从心底里，发自内心地组",
     "tag": "高考词组表518",
     "知识点": "fit in with",
     "核心内容": "适合                                                   从心底里，发自内心地",
@@ -2392,7 +2392,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "1.    get across                   横过；穿过               11.   give out             分发组",
     "tag": "高考词组表518",
     "知识点": "get across",
     "核心内容": "横过；穿过",
@@ -2403,7 +2403,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "1.    get across                   横过；穿过               11.   give out             分发组",
     "tag": "高考词组表518",
     "知识点": "give out",
     "核心内容": "分发",
@@ -2414,7 +2414,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "2.    get down to                  开始认真对待              12.   give rise to         引起组",
     "tag": "高考词组表518",
     "知识点": "get down to",
     "核心内容": "开始认真对待",
@@ -2425,7 +2425,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "2.    get down to                  开始认真对待              12.   give rise to         引起组",
     "tag": "高考词组表518",
     "知识点": "give rise to",
     "核心内容": "引起",
@@ -2436,7 +2436,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "3.    get in the way               挡道，妨碍               13.   give way to          让位于，对……让步组",
     "tag": "高考词组表518",
     "知识点": "get in the way",
     "核心内容": "挡道，妨碍",
@@ -2447,7 +2447,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "3.    get in the way               挡道，妨碍               13.   give way to          让位于，对……让步组",
     "tag": "高考词组表518",
     "知识点": "give way to",
     "核心内容": "让位于，对……让步",
@@ -2458,7 +2458,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "4.    get lost                     迷路                  14.   glance at            暼一眼，匆匆一看组",
     "tag": "高考词组表518",
     "知识点": "get lost",
     "核心内容": "迷路",
@@ -2469,7 +2469,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "4.    get lost                     迷路                  14.   glance at            暼一眼，匆匆一看组",
     "tag": "高考词组表518",
     "知识点": "glance at",
     "核心内容": "暼一眼，匆匆一看",
@@ -2480,7 +2480,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "5.    get over                     克服；从……恢复过来          15.   go after             追求组",
     "tag": "高考词组表518",
     "知识点": "get over",
     "核心内容": "克服；从……恢复过来",
@@ -2491,7 +2491,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "5.    get over                     克服；从……恢复过来          15.   go after             追求组",
     "tag": "高考词组表518",
     "知识点": "go after",
     "核心内容": "追求",
@@ -2502,7 +2502,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "6.    get through with             完成                  16.   go in for            从事于，报名参加组",
     "tag": "高考词组表518",
     "知识点": "get through with",
     "核心内容": "完成",
@@ -2513,7 +2513,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "6.    get through with             完成                  16.   go in for            从事于，报名参加组",
     "tag": "高考词组表518",
     "知识点": "go in for",
     "核心内容": "从事于，报名参加",
@@ -2524,7 +2524,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "7.    give… a lift                 给…...搭便车            17.   go round           足够分配；（疾病）流传，传播组",
     "tag": "高考词组表518",
     "知识点": "give… a lift",
     "核心内容": "给…...搭便车",
@@ -2535,7 +2535,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "7.    give… a lift                 给…...搭便车            17.   go round           足够分配；（疾病）流传，传播组",
     "tag": "高考词组表518",
     "知识点": "go round",
     "核心内容": "足够分配；（疾病）流传，传播",
@@ -2546,7 +2546,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "8.    give away                    泄露；出卖；赠送            18.   go through           检查；经历组",
     "tag": "高考词组表518",
     "知识点": "give away",
     "核心内容": "泄露；出卖；赠送",
@@ -2557,7 +2557,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "8.    give away                    泄露；出卖；赠送            18.   go through           检查；经历组",
     "tag": "高考词组表518",
     "知识点": "go through",
     "核心内容": "检查；经历",
@@ -2568,7 +2568,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "9.    give in                      投降；让步；上交            19.   go with              伴随；与……协调组",
     "tag": "高考词组表518",
     "知识点": "give in",
     "核心内容": "投降；让步；上交",
@@ -2579,7 +2579,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "9.    give in                      投降；让步；上交            19.   go with              伴随；与……协调组",
     "tag": "高考词组表518",
     "知识点": "go with",
     "核心内容": "伴随；与……协调",
@@ -2590,7 +2590,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "10.   give off                     发出（气体）              20.   graduate from        从…毕业组",
     "tag": "高考词组表518",
     "知识点": "give off",
     "核心内容": "发出（气体）",
@@ -2601,7 +2601,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "G组",
+    "level3": "10.   give off                     发出（气体）              20.   graduate from        从…毕业组",
     "tag": "高考词组表518",
     "知识点": "graduate from",
     "核心内容": "从…毕业",
@@ -2612,7 +2612,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "1.    hand out                      分发                 9.    have access to                 可以进入／使用组",
     "tag": "高考词组表518",
     "知识点": "hand out",
     "核心内容": "分发",
@@ -2623,7 +2623,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "1.    hand out                      分发                 9.    have access to                 可以进入／使用组",
     "tag": "高考词组表518",
     "知识点": "have access to",
     "核心内容": "可以进入／使用",
@@ -2634,7 +2634,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "2.    hang on                       抓紧不放，不挂电话          10.   have an effect on        对……有影响、效果组",
     "tag": "高考词组表518",
     "知识点": "hang on",
     "核心内容": "抓紧不放，不挂电话",
@@ -2645,7 +2645,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "2.    hang on                       抓紧不放，不挂电话          10.   have an effect on        对……有影响、效果组",
     "tag": "高考词组表518",
     "知识点": "have an effect on",
     "核心内容": "对……有影响、效果",
@@ -2656,7 +2656,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "3.    have a gift/talent/genius for 有…的天赋              11.   have faith/confidence in 对……有信心组",
     "tag": "高考词组表518",
     "知识点": "have a gift/talent/genius for 有…的天赋",
     "核心内容": "",
@@ -2667,7 +2667,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "3.    have a gift/talent/genius for 有…的天赋              11.   have faith/confidence in 对……有信心组",
     "tag": "高考词组表518",
     "知识点": "have faith/confidence in 对……有信心",
     "核心内容": "",
@@ -2678,7 +2678,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "4.    have a good/poor opinion of 对……评价高／低             12.   have influence on        对......有影响组",
     "tag": "高考词组表518",
     "知识点": "have a good/poor opinion of 对……评价高／低",
     "核心内容": "",
@@ -2689,7 +2689,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "4.    have a good/poor opinion of 对……评价高／低             12.   have influence on        对......有影响组",
     "tag": "高考词组表518",
     "知识点": "have influence on",
     "核心内容": "对......有影响",
@@ -2700,7 +2700,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "5.    have a good command of        精通                 13.   have no choice but to do 别无选择组",
     "tag": "高考词组表518",
     "知识点": "have a good command of",
     "核心内容": "精通",
@@ -2711,7 +2711,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "5.    have a good command of        精通                 13.   have no choice but to do 别无选择组",
     "tag": "高考词组表518",
     "知识点": "have no choice but to do 别无选择",
     "核心内容": "",
@@ -2722,7 +2722,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "6.    have a look at                看一看；请看             14.   have/show respect for 尊敬某人组",
     "tag": "高考词组表518",
     "知识点": "have a look at",
     "核心内容": "看一看；请看",
@@ -2733,7 +2733,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "6.    have a look at                看一看；请看             14.   have/show respect for 尊敬某人组",
     "tag": "高考词组表518",
     "知识点": "have/show respect for 尊敬某人",
     "核心内容": "",
@@ -2744,7 +2744,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "7.    have a passion for            酷爱                 15.   have trouble with        ......有困难组",
     "tag": "高考词组表518",
     "知识点": "have a passion for",
     "核心内容": "酷爱",
@@ -2755,7 +2755,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "7.    have a passion for            酷爱                 15.   have trouble with        ......有困难组",
     "tag": "高考词组表518",
     "知识点": "have trouble with",
     "核心内容": "......有困难",
@@ -2766,7 +2766,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "8.    have a word with sb.          和......说话          16.   head for                 驶向，走向组",
     "tag": "高考词组表518",
     "知识点": "have a word with sb.",
     "核心内容": "和......说话",
@@ -2777,7 +2777,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "8.    have a word with sb.          和......说话          16.   head for                 驶向，走向组",
     "tag": "高考词组表518",
     "知识点": "head for",
     "核心内容": "驶向，走向",
@@ -2788,7 +2788,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "H组",
+    "level3": "17. hold a firm belief in sth. 对某事怀着坚定信念组",
     "tag": "高考词组表518",
     "知识点": "hold a firm belief in sth. 对某事怀着坚定信念",
     "核心内容": "",
@@ -2799,7 +2799,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "L组",
+    "level3": "1.    look around                环视;向四周看         6.    look through            浏览;核查;看穿,识破组",
     "tag": "高考词组表518",
     "知识点": "look around",
     "核心内容": "环视;向四周看",
@@ -2810,7 +2810,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "L组",
+    "level3": "1.    look around                环视;向四周看         6.    look through            浏览;核查;看穿,识破组",
     "tag": "高考词组表518",
     "知识点": "look through",
     "核心内容": "浏览;核查;看穿,识破",
@@ -2821,7 +2821,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "L组",
+    "level3": "2.    look back                  回顾              7.    look to                   指望组",
     "tag": "高考词组表518",
     "知识点": "look back",
     "核心内容": "回顾",
@@ -2832,7 +2832,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "L组",
+    "level3": "2.    look back                  回顾              7.    look to                   指望组",
     "tag": "高考词组表518",
     "知识点": "look to",
     "核心内容": "指望",
@@ -2843,7 +2843,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "L组",
+    "level3": "3.    look down on/upon          轻视              8.    look up to                尊敬组",
     "tag": "高考词组表518",
     "知识点": "look down on/upon",
     "核心内容": "轻视",
@@ -2854,7 +2854,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "L组",
+    "level3": "3.    look down on/upon          轻视              8.    look up to                尊敬组",
     "tag": "高考词组表518",
     "知识点": "look up to",
     "核心内容": "尊敬",
@@ -2865,7 +2865,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "L组",
+    "level3": "4.    look into                调査,观察             9.    lose heart              失去信心组",
     "tag": "高考词组表518",
     "知识点": "look into",
     "核心内容": "调査,观察",
@@ -2876,7 +2876,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "L组",
+    "level3": "4.    look into                调査,观察             9.    lose heart              失去信心组",
     "tag": "高考词组表518",
     "知识点": "lose heart",
     "核心内容": "失去信心",
@@ -2887,7 +2887,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "L组",
+    "level3": "5.    look on                  旁观组",
     "tag": "高考词组表518",
     "知识点": "look on",
     "核心内容": "旁观",
@@ -2898,7 +2898,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "1.    major in                   主修              15. make contributions to 对……作贡献组",
     "tag": "高考词组表518",
     "知识点": "major in",
     "核心内容": "主修",
@@ -2909,7 +2909,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "1.    major in                   主修              15. make contributions to 对……作贡献组",
     "tag": "高考词组表518",
     "知识点": "make contributions to 对……作贡献",
     "核心内容": "",
@@ -2920,7 +2920,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "2.    make/ commit a mistake     犯错              16. make out                辨认出组",
     "tag": "高考词组表518",
     "知识点": "make/ commit a mistake",
     "核心内容": "犯错",
@@ -2931,7 +2931,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "2.    make/ commit a mistake     犯错              16. make out                辨认出组",
     "tag": "高考词组表518",
     "知识点": "make out",
     "核心内容": "辨认出",
@@ -2942,7 +2942,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "3.    make/ earn a living        谋生              17. make sense              讲得通,有意义组",
     "tag": "高考词组表518",
     "知识点": "make/ earn a living",
     "核心内容": "谋生",
@@ -2953,7 +2953,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "3.    make/ earn a living        谋生              17. make sense              讲得通,有意义组",
     "tag": "高考词组表518",
     "知识点": "make sense",
     "核心内容": "讲得通,有意义",
@@ -2964,7 +2964,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "4.    make a decision            做决定             18. make sure               确保,查明组",
     "tag": "高考词组表518",
     "知识点": "make a decision",
     "核心内容": "做决定",
@@ -2975,7 +2975,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "4.    make a decision            做决定             18. make sure               确保,查明组",
     "tag": "高考词组表518",
     "知识点": "make sure",
     "核心内容": "确保,查明",
@@ -2986,7 +2986,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "5.    make a fortune             发财              19. make trouble            惹麻烦组",
     "tag": "高考词组表518",
     "知识点": "make a fortune",
     "核心内容": "发财",
@@ -2997,7 +2997,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "5.    make a fortune             发财              19. make trouble            惹麻烦组",
     "tag": "高考词组表518",
     "知识点": "make trouble",
     "核心内容": "惹麻烦",
@@ -3008,7 +3008,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "6.    make a list                列一张清单           20. make up                 组成;编造;补偿组",
     "tag": "高考词组表518",
     "知识点": "make a list",
     "核心内容": "列一张清单",
@@ -3019,7 +3019,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "6.    make a list                列一张清单           20. make up                 组成;编造;补偿组",
     "tag": "高考词组表518",
     "知识点": "make up",
     "核心内容": "组成;编造;补偿",
@@ -3030,7 +3030,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "7.    make a profit              赚取利润            21. make up for             补偿,弥补组",
     "tag": "高考词组表518",
     "知识点": "make a profit",
     "核心内容": "赚取利润",
@@ -3041,7 +3041,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "7.    make a profit              赚取利润            21. make up for             补偿,弥补组",
     "tag": "高考词组表518",
     "知识点": "make up for",
     "核心内容": "补偿,弥补",
@@ -3052,7 +3052,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "8.    make a promise             许诺              22. make use of             使用;利用组",
     "tag": "高考词组表518",
     "知识点": "make a promise",
     "核心内容": "许诺",
@@ -3063,7 +3063,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "8.    make a promise             许诺              22. make use of             使用;利用组",
     "tag": "高考词组表518",
     "知识点": "make use of",
     "核心内容": "使用;利用",
@@ -3074,7 +3074,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "9.    make an effort             努力              23. make/ leave an impression on 留下印象组",
     "tag": "高考词组表518",
     "知识点": "make an effort",
     "核心内容": "努力",
@@ -3085,7 +3085,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "9.    make an effort             努力              23. make/ leave an impression on 留下印象组",
     "tag": "高考词组表518",
     "知识点": "make/ leave an impression on 留下印象",
     "核心内容": "",
@@ -3096,7 +3096,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "10.   make an offer              主动提供            24. meet one's need/ demand/expectation组",
     "tag": "高考词组表518",
     "知识点": "make an offer",
     "核心内容": "主动提供",
@@ -3107,7 +3107,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "10.   make an offer              主动提供            24. meet one's need/ demand/expectation组",
     "tag": "高考词组表518",
     "知识点": "meet one's need/ demand/expectation",
     "核心内容": "",
@@ -3118,7 +3118,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "11.   make arrangements for      为……安排                                       满足某人的需要/期望组",
     "tag": "高考词组表518",
     "知识点": "make arrangements for",
     "核心内容": "为……安排                                       满足某人的需要/期望",
@@ -3129,7 +3129,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "12.   make comments on           发表评论            25. meet the requirement of 满足要求组",
     "tag": "高考词组表518",
     "知识点": "make comments on",
     "核心内容": "发表评论",
@@ -3140,7 +3140,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "12.   make comments on           发表评论            25. meet the requirement of 满足要求组",
     "tag": "高考词组表518",
     "知识点": "meet the requirement of 满足要求",
     "核心内容": "",
@@ -3151,7 +3151,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "13.   make complaints about      抱怨              26. mess up                 弄乱,弄糟组",
     "tag": "高考词组表518",
     "知识点": "make complaints about",
     "核心内容": "抱怨",
@@ -3162,7 +3162,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "13.   make complaints about      抱怨              26. mess up                 弄乱,弄糟组",
     "tag": "高考词组表518",
     "知识点": "mess up",
     "核心内容": "弄乱,弄糟",
@@ -3173,7 +3173,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "14.   make contact with          与……取得联系         27. mistake A for B         把 A 误认为 B组",
     "tag": "高考词组表518",
     "知识点": "make contact with",
     "核心内容": "与……取得联系",
@@ -3184,7 +3184,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "M组",
+    "level3": "14.   make contact with          与……取得联系         27. mistake A for B         把 A 误认为 B组",
     "tag": "高考词组表518",
     "知识点": "mistake A for B",
     "核心内容": "把 A 误认为 B",
@@ -3195,7 +3195,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "N组",
+    "level3": "1.    negotiate with sb.         与某人谈判协商组",
     "tag": "高考词组表518",
     "知识点": "negotiate with sb.",
     "核心内容": "与某人谈判协商",
@@ -3206,7 +3206,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "2.    object to                    反对            15.   on schedule             准时组",
     "tag": "高考词组表518",
     "知识点": "object to",
     "核心内容": "反对",
@@ -3217,7 +3217,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "2.    object to                    反对            15.   on schedule             准时组",
     "tag": "高考词组表518",
     "知识点": "on schedule",
     "核心内容": "准时",
@@ -3228,7 +3228,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "3.    oblige sb.to do              迫使某人做某事       16.   on the contrary         正相反组",
     "tag": "高考词组表518",
     "知识点": "oblige sb.to do",
     "核心内容": "迫使某人做某事",
@@ -3239,7 +3239,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "3.    oblige sb.to do              迫使某人做某事       16.   on the contrary         正相反组",
     "tag": "高考词组表518",
     "知识点": "on the contrary",
     "核心内容": "正相反",
@@ -3250,7 +3250,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "4.    observe the regulations/rule 遵守规则          17.   on the occasion of      在做某事的场合/情况组",
     "tag": "高考词组表518",
     "知识点": "observe the regulations/rule 遵守规则",
     "核心内容": "",
@@ -3261,7 +3261,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "4.    observe the regulations/rule 遵守规则          17.   on the occasion of      在做某事的场合/情况组",
     "tag": "高考词组表518",
     "知识点": "on the occasion of",
     "核心内容": "在做某事的场合/情况",
@@ -3272,7 +3272,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "5.    occur to                     想到            18.   on the way to           在去…的路上组",
     "tag": "高考词组表518",
     "知识点": "occur to",
     "核心内容": "想到",
@@ -3283,7 +3283,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "5.    occur to                     想到            18.   on the way to           在去…的路上组",
     "tag": "高考词组表518",
     "知识点": "on the way to",
     "核心内容": "在去…的路上",
@@ -3294,7 +3294,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "6.    on board                     在船上           19.   on the whole            就总体而言组",
     "tag": "高考词组表518",
     "知识点": "on board",
     "核心内容": "在船上",
@@ -3305,7 +3305,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "6.    on board                     在船上           19.   on the whole            就总体而言组",
     "tag": "高考词组表518",
     "知识点": "on the whole",
     "核心内容": "就总体而言",
@@ -3316,7 +3316,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "7.    on camps                     在校园内          20.   nice in a while         偶尔组",
     "tag": "高考词组表518",
     "知识点": "on camps",
     "核心内容": "在校园内",
@@ -3327,7 +3327,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "7.    on camps                     在校园内          20.   nice in a while         偶尔组",
     "tag": "高考词组表518",
     "知识点": "nice in a while",
     "核心内容": "偶尔",
@@ -3338,7 +3338,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "8.    on condition that            只要            21.   operate on              做手术组",
     "tag": "高考词组表518",
     "知识点": "on condition that",
     "核心内容": "只要",
@@ -3349,7 +3349,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "8.    on condition that            只要            21.   operate on              做手术组",
     "tag": "高考词组表518",
     "知识点": "operate on",
     "核心内容": "做手术",
@@ -3360,7 +3360,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "9.    on display                   在展览           22.   other than              除了组",
     "tag": "高考词组表518",
     "知识点": "on display",
     "核心内容": "在展览",
@@ -3371,7 +3371,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "9.    on display                   在展览           22.   other than              除了组",
     "tag": "高考词组表518",
     "知识点": "other than",
     "核心内容": "除了",
@@ -3382,7 +3382,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "10.   on fire                      着火            23.   out of breath           喘不过气来组",
     "tag": "高考词组表518",
     "知识点": "on fire",
     "核心内容": "着火",
@@ -3393,7 +3393,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "10.   on fire                      着火            23.   out of breath           喘不过气来组",
     "tag": "高考词组表518",
     "知识点": "out of breath",
     "核心内容": "喘不过气来",
@@ -3404,7 +3404,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "11.   on one’s own                 单独,靠自己        24.   out of order/ control   失灵,失控组",
     "tag": "高考词组表518",
     "知识点": "on one’s own",
     "核心内容": "单独,靠自己",
@@ -3415,7 +3415,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "11.   on one’s own                 单独,靠自己        24.   out of order/ control   失灵,失控组",
     "tag": "高考词组表518",
     "知识点": "out of order/ control",
     "核心内容": "失灵,失控",
@@ -3426,7 +3426,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "12.   on one's side            站在某人一边,支持某人       25.   out of/ with range      在射程外/内组",
     "tag": "高考词组表518",
     "知识点": "on one's side",
     "核心内容": "站在某人一边,支持某人",
@@ -3437,7 +3437,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "12.   on one's side            站在某人一边,支持某人       25.   out of/ with range      在射程外/内组",
     "tag": "高考词组表518",
     "知识点": "out of/ with range",
     "核心内容": "在射程外/内",
@@ -3448,7 +3448,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "13.   on purpose                   故意地           26.   owing to                由于组",
     "tag": "高考词组表518",
     "知识点": "on purpose",
     "核心内容": "故意地",
@@ -3459,7 +3459,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "13.   on purpose                   故意地           26.   owing to                由于组",
     "tag": "高考词组表518",
     "知识点": "owing to",
     "核心内容": "由于",
@@ -3470,7 +3470,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "O组",
+    "level3": "14.   on sale                      出售;廉价出售组",
     "tag": "高考词组表518",
     "知识点": "on sale",
     "核心内容": "出售;廉价出售",
@@ -3481,7 +3481,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "1.    participate in             参与              4.    pass on/down              传递;传授组",
     "tag": "高考词组表518",
     "知识点": "participate in",
     "核心内容": "参与",
@@ -3492,7 +3492,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "1.    participate in             参与              4.    pass on/down              传递;传授组",
     "tag": "高考词组表518",
     "知识点": "pass on/down",
     "核心内容": "传递;传授",
@@ -3503,7 +3503,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "2.    pass away                  逝世,去世           5.    pass through              穿过,经历组",
     "tag": "高考词组表518",
     "知识点": "pass away",
     "核心内容": "逝世,去世",
@@ -3514,7 +3514,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "2.    pass away                  逝世,去世           5.    pass through              穿过,经历组",
     "tag": "高考词组表518",
     "知识点": "pass through",
     "核心内容": "穿过,经历",
@@ -3525,7 +3525,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "3.    pass by                    路过              6.    pay a visit to            访问组",
     "tag": "高考词组表518",
     "知识点": "pass by",
     "核心内容": "路过",
@@ -3536,7 +3536,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "3.    pass by                    路过              6.    pay a visit to            访问组",
     "tag": "高考词组表518",
     "知识点": "pay a visit to",
     "核心内容": "访问",
@@ -3547,7 +3547,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "7.    pay attention to               注意                                                   向某人提供某物组",
     "tag": "高考词组表518",
     "知识点": "pay attention to",
     "核心内容": "注意                                                   向某人提供某物",
@@ -3558,7 +3558,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "8.    pay back                       偿还,回报              18.   put...into practice         将...付诸实施组",
     "tag": "高考词组表518",
     "知识点": "pay back",
     "核心内容": "偿还,回报",
@@ -3569,7 +3569,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "8.    pay back                       偿还,回报              18.   put...into practice         将...付诸实施组",
     "tag": "高考词组表518",
     "知识点": "put...into practice",
     "核心内容": "将...付诸实施",
@@ -3580,7 +3580,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "9.    payoff                         还清(借款)             19.   put..into words             用言辞表达...组",
     "tag": "高考词组表518",
     "知识点": "payoff",
     "核心内容": "还清(借款)",
@@ -3591,7 +3591,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "9.    payoff                         还清(借款)             19.   put..into words             用言辞表达...组",
     "tag": "高考词组表518",
     "知识点": "put..into words",
     "核心内容": "用言辞表达...",
@@ -3602,7 +3602,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "10.   persevere in                   坚持不懈               20.   put away                    把...收起；放好组",
     "tag": "高考词组表518",
     "知识点": "persevere in",
     "核心内容": "坚持不懈",
@@ -3613,7 +3613,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "10.   persevere in                   坚持不懈               20.   put away                    把...收起；放好组",
     "tag": "高考词组表518",
     "知识点": "put away",
     "核心内容": "把...收起；放好",
@@ -3624,7 +3624,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "11.   persist in                     坚持/执意做某事           21.   put down                    放下，记下组",
     "tag": "高考词组表518",
     "知识点": "persist in",
     "核心内容": "坚持/执意做某事",
@@ -3635,7 +3635,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "11.   persist in                     坚持/执意做某事           21.   put down                    放下，记下组",
     "tag": "高考词组表518",
     "知识点": "put down",
     "核心内容": "放下，记下",
@@ -3646,7 +3646,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "12.   pick up                   学会;(用车/船)接人             22.   put forward                     提出组",
     "tag": "高考词组表518",
     "知识点": "pick up",
     "核心内容": "学会;(用车/船)接人",
@@ -3657,7 +3657,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "12.   pick up                   学会;(用车/船)接人             22.   put forward                     提出组",
     "tag": "高考词组表518",
     "知识点": "put forward",
     "核心内容": "提出",
@@ -3668,7 +3668,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "13.   place an order for        订购某物                    23.   put out                         出版，公布，扑灭组",
     "tag": "高考词组表518",
     "知识点": "place an order for",
     "核心内容": "订购某物",
@@ -3679,7 +3679,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "13.   place an order for        订购某物                    23.   put out                         出版，公布，扑灭组",
     "tag": "高考词组表518",
     "知识点": "put out",
     "核心内容": "出版，公布，扑灭",
@@ -3690,7 +3690,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "14.   play a part(in)           (在…中)起作用                24.   put pressure on                 对...施压组",
     "tag": "高考词组表518",
     "知识点": "play a part(in)",
     "核心内容": "(在…中)起作用",
@@ -3701,7 +3701,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "14.   play a part(in)           (在…中)起作用                24.   put pressure on                 对...施压组",
     "tag": "高考词组表518",
     "知识点": "put pressure on",
     "核心内容": "对...施压",
@@ -3712,7 +3712,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "15.   point at                  指着                      25.   put through                 接通电话组",
     "tag": "高考词组表518",
     "知识点": "point at",
     "核心内容": "指着",
@@ -3723,7 +3723,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "15.   point at                  指着                      25.   put through                 接通电话组",
     "tag": "高考词组表518",
     "知识点": "put through",
     "核心内容": "接通电话",
@@ -3734,7 +3734,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "16.   prohibit sb. from doing 禁止某人做某事                   26.   put up                      搭建，提出（计划）  ，留宿组",
     "tag": "高考词组表518",
     "知识点": "prohibit sb. from doing 禁止某人做某事",
     "核心内容": "",
@@ -3745,7 +3745,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "16.   prohibit sb. from doing 禁止某人做某事                   26.   put up                      搭建，提出（计划）  ，留宿组",
     "tag": "高考词组表518",
     "知识点": "put up",
     "核心内容": "搭建，提出（计划）  ，留宿",
@@ -3756,7 +3756,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "17.   provide ab. with sth. /provide sth. for sb.       27.   put up with                 忍受组",
     "tag": "高考词组表518",
     "知识点": "provide ab. with sth. /provide sth. for sb.",
     "核心内容": "",
@@ -3767,7 +3767,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "P组",
+    "level3": "17.   provide ab. with sth. /provide sth. for sb.       27.   put up with                 忍受组",
     "tag": "高考词组表518",
     "知识点": "put up with",
     "核心内容": "忍受",
@@ -3778,7 +3778,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "1.    range in...from...to     （在某方面）从...到...不等         9.    replace A with B            用 B 取代 A组",
     "tag": "高考词组表518",
     "知识点": "range in...from...to",
     "核心内容": "（在某方面）从...到...不等",
@@ -3789,7 +3789,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "1.    range in...from...to     （在某方面）从...到...不等         9.    replace A with B            用 B 取代 A组",
     "tag": "高考词组表518",
     "知识点": "replace A with B",
     "核心内容": "用 B 取代 A",
@@ -3800,7 +3800,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "2.    rather than                而不是                    10.   respond to                  对...作反应组",
     "tag": "高考词组表518",
     "知识点": "rather than",
     "核心内容": "而不是",
@@ -3811,7 +3811,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "2.    rather than                而不是                    10.   respond to                  对...作反应组",
     "tag": "高考词组表518",
     "知识点": "respond to",
     "核心内容": "对...作反应",
@@ -3822,7 +3822,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "3.    reach out for              伸出手拿                   11.   result from                 产生于，来自组",
     "tag": "高考词组表518",
     "知识点": "reach out for",
     "核心内容": "伸出手拿",
@@ -3833,7 +3833,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "3.    reach out for              伸出手拿                   11.   result from                 产生于，来自组",
     "tag": "高考词组表518",
     "知识点": "result from",
     "核心内容": "产生于，来自",
@@ -3844,7 +3844,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "4.    recover from               从...中恢复                12.   result in                   导致，引起组",
     "tag": "高考词组表518",
     "知识点": "recover from",
     "核心内容": "从...中恢复",
@@ -3855,7 +3855,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "4.    recover from               从...中恢复                12.   result in                   导致，引起组",
     "tag": "高考词组表518",
     "知识点": "result in",
     "核心内容": "导致，引起",
@@ -3866,7 +3866,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "5.    refer to                   参阅，指的是                 13.   reward...with...            用某物回报某人组",
     "tag": "高考词组表518",
     "知识点": "refer to",
     "核心内容": "参阅，指的是",
@@ -3877,7 +3877,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "5.    refer to                   参阅，指的是                 13.   reward...with...            用某物回报某人组",
     "tag": "高考词组表518",
     "知识点": "reward...with...",
     "核心内容": "用某物回报某人",
@@ -3888,7 +3888,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "6.    regard...as                把...看作                 14.   run across                  碰见，偶然发现组",
     "tag": "高考词组表518",
     "知识点": "regard...as",
     "核心内容": "把...看作",
@@ -3899,7 +3899,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "6.    regard...as                把...看作                 14.   run across                  碰见，偶然发现组",
     "tag": "高考词组表518",
     "知识点": "run across",
     "核心内容": "碰见，偶然发现",
@@ -3910,7 +3910,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "7.    regardless of              不顾，不管                  15.   run after                   追赶，追捕，跟踪组",
     "tag": "高考词组表518",
     "知识点": "regardless of",
     "核心内容": "不顾，不管",
@@ -3921,7 +3921,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "7.    regardless of              不顾，不管                  15.   run after                   追赶，追捕，跟踪组",
     "tag": "高考词组表518",
     "知识点": "run after",
     "核心内容": "追赶，追捕，跟踪",
@@ -3932,7 +3932,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "8.    remind sb. of sth.         提醒某人...                16.   rush hour                   高峰时间组",
     "tag": "高考词组表518",
     "知识点": "remind sb. of sth.",
     "核心内容": "提醒某人...",
@@ -3943,7 +3943,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "R组",
+    "level3": "8.    remind sb. of sth.         提醒某人...                16.   rush hour                   高峰时间组",
     "tag": "高考词组表518",
     "知识点": "rush hour",
     "核心内容": "高峰时间",
@@ -3954,7 +3954,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "1.    see through          看穿                           19.   sooner or later             迟早组",
     "tag": "高考词组表518",
     "知识点": "see through",
     "核心内容": "看穿",
@@ -3965,7 +3965,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "1.    see through          看穿                           19.   sooner or later             迟早组",
     "tag": "高考词组表518",
     "知识点": "sooner or later",
     "核心内容": "迟早",
@@ -3976,7 +3976,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "2.    see to         注意，负责（做某事） ，照顾（某人）                 20.   spare no efforts            不遗余力组",
     "tag": "高考词组表518",
     "知识点": "see to",
     "核心内容": "注意，负责（做某事） ，照顾（某人）",
@@ -3987,7 +3987,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "2.    see to         注意，负责（做某事） ，照顾（某人）                 20.   spare no efforts            不遗余力组",
     "tag": "高考词组表518",
     "知识点": "spare no efforts",
     "核心内容": "不遗余力",
@@ -3998,7 +3998,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "3.    send for             派人去请                         21.   speak highly of             高度赞扬组",
     "tag": "高考词组表518",
     "知识点": "send for",
     "核心内容": "派人去请",
@@ -4009,7 +4009,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "3.    send for             派人去请                         21.   speak highly of             高度赞扬组",
     "tag": "高考词组表518",
     "知识点": "speak highly of",
     "核心内容": "高度赞扬",
@@ -4020,7 +4020,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "4.    separate A from B    把 A 和 B 分开                   22.   speed up                    加快速度组",
     "tag": "高考词组表518",
     "知识点": "separate A from B",
     "核心内容": "把 A 和 B 分开",
@@ -4031,7 +4031,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "4.    separate A from B    把 A 和 B 分开                   22.   speed up                    加快速度组",
     "tag": "高考词组表518",
     "知识点": "speed up",
     "核心内容": "加快速度",
@@ -4042,7 +4042,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "5.    serve as             充当，起...作用                    23.   spring up                   涌现组",
     "tag": "高考词组表518",
     "知识点": "serve as",
     "核心内容": "充当，起...作用",
@@ -4053,7 +4053,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "5.    serve as             充当，起...作用                    23.   spring up                   涌现组",
     "tag": "高考词组表518",
     "知识点": "spring up",
     "核心内容": "涌现",
@@ -4064,7 +4064,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "6.    set...free           释放                           24.   stand for                   代表组",
     "tag": "高考词组表518",
     "知识点": "set...free",
     "核心内容": "释放",
@@ -4075,7 +4075,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "6.    set...free           释放                           24.   stand for                   代表组",
     "tag": "高考词组表518",
     "知识点": "stand for",
     "核心内容": "代表",
@@ -4086,7 +4086,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "7.    set about            开始，着手                        25.   stand out                   突出，引人注目组",
     "tag": "高考词组表518",
     "知识点": "set about",
     "核心内容": "开始，着手",
@@ -4097,7 +4097,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "7.    set about            开始，着手                        25.   stand out                   突出，引人注目组",
     "tag": "高考词组表518",
     "知识点": "stand out",
     "核心内容": "突出，引人注目",
@@ -4108,7 +4108,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "8.    set an example       树立榜样                         26.   stay awake                  醒着组",
     "tag": "高考词组表518",
     "知识点": "set an example",
     "核心内容": "树立榜样",
@@ -4119,7 +4119,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "8.    set an example       树立榜样                         26.   stay awake                  醒着组",
     "tag": "高考词组表518",
     "知识点": "stay awake",
     "核心内容": "醒着",
@@ -4130,7 +4130,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "9.    set aside          留出，拨出，把...置于一旁                 27.   stick to                    坚持，忠于组",
     "tag": "高考词组表518",
     "知识点": "set aside",
     "核心内容": "留出，拨出，把...置于一旁",
@@ -4141,7 +4141,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "9.    set aside          留出，拨出，把...置于一旁                 27.   stick to                    坚持，忠于组",
     "tag": "高考词组表518",
     "知识点": "stick to",
     "核心内容": "坚持，忠于",
@@ -4152,7 +4152,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "10.   set off            出发，启程，着手（做某事）                  28.   straight away               立即，马上组",
     "tag": "高考词组表518",
     "知识点": "set off",
     "核心内容": "出发，启程，着手（做某事）",
@@ -4163,7 +4163,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "10.   set off            出发，启程，着手（做某事）                  28.   straight away               立即，马上组",
     "tag": "高考词组表518",
     "知识点": "straight away",
     "核心内容": "立即，马上",
@@ -4174,7 +4174,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "11.   set out              出发，开始                        29.   substitute for              代替组",
     "tag": "高考词组表518",
     "知识点": "set out",
     "核心内容": "出发，开始",
@@ -4185,7 +4185,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "11.   set out              出发，开始                        29.   substitute for              代替组",
     "tag": "高考词组表518",
     "知识点": "substitute for",
     "核心内容": "代替",
@@ -4196,7 +4196,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "12.   set up             树立，建立，设立，提出                    30.   succeed in                  在（某方面）成功组",
     "tag": "高考词组表518",
     "知识点": "set up",
     "核心内容": "树立，建立，设立，提出",
@@ -4207,7 +4207,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "12.   set up             树立，建立，设立，提出                    30.   succeed in                  在（某方面）成功组",
     "tag": "高考词组表518",
     "知识点": "succeed in",
     "核心内容": "在（某方面）成功",
@@ -4218,7 +4218,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "13.   settle down          定居                           31.   suffer from                 承受...之苦，患病组",
     "tag": "高考词组表518",
     "知识点": "settle down",
     "核心内容": "定居",
@@ -4229,7 +4229,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "13.   settle down          定居                           31.   suffer from                 承受...之苦，患病组",
     "tag": "高考词组表518",
     "知识点": "suffer from",
     "核心内容": "承受...之苦，患病",
@@ -4240,7 +4240,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "14.   shortly/soon after   在...后不久                      32.   supply ab.with.sth.         供应某人某物组",
     "tag": "高考词组表518",
     "知识点": "shortly/soon after",
     "核心内容": "在...后不久",
@@ -4251,7 +4251,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "14.   shortly/soon after   在...后不久                      32.   supply ab.with.sth.         供应某人某物组",
     "tag": "高考词组表518",
     "知识点": "supply ab.with.sth.",
     "核心内容": "供应某人某物",
@@ -4262,7 +4262,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "15.   show up              出席，使显现                       33.   surf the Internet           上网冲浪组",
     "tag": "高考词组表518",
     "知识点": "show up",
     "核心内容": "出席，使显现",
@@ -4273,7 +4273,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "15.   show up              出席，使显现                       33.   surf the Internet           上网冲浪组",
     "tag": "高考词组表518",
     "知识点": "surf the Internet",
     "核心内容": "上网冲浪",
@@ -4284,7 +4284,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "16.   sign up for          报名参加                         34.   switch off                  （用开关）关掉组",
     "tag": "高考词组表518",
     "知识点": "sign up for",
     "核心内容": "报名参加",
@@ -4295,7 +4295,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "16.   sign up for          报名参加                         34.   switch off                  （用开关）关掉组",
     "tag": "高考词组表518",
     "知识点": "switch off",
     "核心内容": "（用开关）关掉",
@@ -4306,7 +4306,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "17.   sit up               熬夜                           35.   switch on                   （用开关）打开组",
     "tag": "高考词组表518",
     "知识点": "sit up",
     "核心内容": "熬夜",
@@ -4317,7 +4317,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "17.   sit up               熬夜                           35.   switch on                   （用开关）打开组",
     "tag": "高考词组表518",
     "知识点": "switch on",
     "核心内容": "（用开关）打开",
@@ -4328,7 +4328,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "S组",
+    "level3": "18.   slow down            减速组",
     "tag": "高考词组表518",
     "知识点": "slow down",
     "核心内容": "减速",
@@ -4339,7 +4339,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "1.    take great pains to do     煞费苦心做某事                5.    take...into consideration     把某事考虑进去组",
     "tag": "高考词组表518",
     "知识点": "take great pains to do",
     "核心内容": "煞费苦心做某事",
@@ -4350,7 +4350,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "1.    take great pains to do     煞费苦心做某事                5.    take...into consideration     把某事考虑进去组",
     "tag": "高考词组表518",
     "知识点": "take...into consideration",
     "核心内容": "把某事考虑进去",
@@ -4361,7 +4361,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "2.    take...as an example       举...为例                 6.    take action                   采取行动组",
     "tag": "高考词组表518",
     "知识点": "take...as an example",
     "核心内容": "举...为例",
@@ -4372,7 +4372,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "2.    take...as an example       举...为例                 6.    take action                   采取行动组",
     "tag": "高考词组表518",
     "知识点": "take action",
     "核心内容": "采取行动",
@@ -4383,7 +4383,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "3.    take...seriously           认真对待                   7.    take advantage of             利用组",
     "tag": "高考词组表518",
     "知识点": "take...seriously",
     "核心内容": "认真对待",
@@ -4394,7 +4394,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "3.    take...seriously           认真对待                   7.    take advantage of             利用组",
     "tag": "高考词组表518",
     "知识点": "take advantage of",
     "核心内容": "利用",
@@ -4405,7 +4405,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "4.    take...for granted         想当然，认为理所当然             8.    take effect                   生效组",
     "tag": "高考词组表518",
     "知识点": "take...for granted",
     "核心内容": "想当然，认为理所当然",
@@ -4416,7 +4416,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "4.    take...for granted         想当然，认为理所当然             8.    take effect                   生效组",
     "tag": "高考词组表518",
     "知识点": "take effect",
     "核心内容": "生效",
@@ -4427,7 +4427,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "9.    take in                   吸收，了解，欺骗           27.   think of...as           把....看作组",
     "tag": "高考词组表518",
     "知识点": "take in",
     "核心内容": "吸收，了解，欺骗",
@@ -4438,7 +4438,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "9.    take in                   吸收，了解，欺骗           27.   think of...as           把....看作组",
     "tag": "高考词组表518",
     "知识点": "think of...as",
     "核心内容": "把....看作",
@@ -4449,7 +4449,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "10.   take measures/steps       采取措施               28.   throw light on          阐明组",
     "tag": "高考词组表518",
     "知识点": "take measures/steps",
     "核心内容": "采取措施",
@@ -4460,7 +4460,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "10.   take measures/steps       采取措施               28.   throw light on          阐明组",
     "tag": "高考词组表518",
     "知识点": "throw light on",
     "核心内容": "阐明",
@@ -4471,7 +4471,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "11.   take notice of            注意                 29.   to one’s relief              使某人宽慰的是组",
     "tag": "高考词组表518",
     "知识点": "take notice of",
     "核心内容": "注意",
@@ -4482,7 +4482,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "11.   take notice of            注意                 29.   to one’s relief              使某人宽慰的是组",
     "tag": "高考词组表518",
     "知识点": "to one’s relief",
     "核心内容": "使某人宽慰的是",
@@ -4493,7 +4493,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "12.   take on                   呈现，承担，雇佣           30.   to some extent               在一定程度上组",
     "tag": "高考词组表518",
     "知识点": "take on",
     "核心内容": "呈现，承担，雇佣",
@@ -4504,7 +4504,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "12.   take on                   呈现，承担，雇佣           30.   to some extent               在一定程度上组",
     "tag": "高考词组表518",
     "知识点": "to some extent",
     "核心内容": "在一定程度上",
@@ -4515,7 +4515,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "13.   take one’s time           慢慢来                31.   to the point                 切题组",
     "tag": "高考词组表518",
     "知识点": "take one’s time",
     "核心内容": "慢慢来",
@@ -4526,7 +4526,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "13.   take one’s time           慢慢来                31.   to the point                 切题组",
     "tag": "高考词组表518",
     "知识点": "to the point",
     "核心内容": "切题",
@@ -4537,7 +4537,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "14.   take over                 接收                 32.   touch on                     涉及到组",
     "tag": "高考词组表518",
     "知识点": "take over",
     "核心内容": "接收",
@@ -4548,7 +4548,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "14.   take over                 接收                 32.   touch on                     涉及到组",
     "tag": "高考词组表518",
     "知识点": "touch on",
     "核心内容": "涉及到",
@@ -4559,7 +4559,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "15.   take part in         以...为荣                  33.   treat....as                  把....看作组",
     "tag": "高考词组表518",
     "知识点": "take part in",
     "核心内容": "以...为荣",
@@ -4570,7 +4570,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "15.   take part in         以...为荣                  33.   treat....as                  把....看作组",
     "tag": "高考词组表518",
     "知识点": "treat....as",
     "核心内容": "把....看作",
@@ -4581,7 +4581,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "16.   take shape           成形；出现                   34.   try out                      试用；实验组",
     "tag": "高考词组表518",
     "知识点": "take shape",
     "核心内容": "成形；出现",
@@ -4592,7 +4592,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "16.   take shape           成形；出现                   34.   try out                      试用；实验组",
     "tag": "高考词组表518",
     "知识点": "try out",
     "核心内容": "试用；实验",
@@ -4603,7 +4603,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "17.   take the advice      采纳建议                    35.   turn a blind eye to          对....熟视无睹组",
     "tag": "高考词组表518",
     "知识点": "take the advice",
     "核心内容": "采纳建议",
@@ -4614,7 +4614,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "17.   take the advice      采纳建议                    35.   turn a blind eye to          对....熟视无睹组",
     "tag": "高考词组表518",
     "知识点": "turn a blind eye to",
     "核心内容": "对....熟视无睹",
@@ -4625,7 +4625,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "18.   take the place of    代替                      36.   turn down                    拒绝组",
     "tag": "高考词组表518",
     "知识点": "take the place of",
     "核心内容": "代替",
@@ -4636,7 +4636,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "18.   take the place of    代替                      36.   turn down                    拒绝组",
     "tag": "高考词组表518",
     "知识点": "turn down",
     "核心内容": "拒绝",
@@ -4647,7 +4647,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "19.   take the trouble     费神                      37.   turn in                 上交；拐弯进入组",
     "tag": "高考词组表518",
     "知识点": "take the trouble",
     "核心内容": "费神",
@@ -4658,7 +4658,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "19.   take the trouble     费神                      37.   turn in                 上交；拐弯进入组",
     "tag": "高考词组表518",
     "知识点": "turn in",
     "核心内容": "上交；拐弯进入",
@@ -4669,7 +4669,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "20.   take turns           轮流                      38.   turn out                生产；制造；结果是组",
     "tag": "高考词组表518",
     "知识点": "take turns",
     "核心内容": "轮流",
@@ -4680,7 +4680,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "20.   take turns           轮流                      38.   turn out                生产；制造；结果是组",
     "tag": "高考词组表518",
     "知识点": "turn out",
     "核心内容": "生产；制造；结果是",
@@ -4691,7 +4691,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "21.   take up         从事；占去（地方、时间、注意力等）            39.   turn over               移交；仔细考虑组",
     "tag": "高考词组表518",
     "知识点": "take up",
     "核心内容": "从事；占去（地方、时间、注意力等）",
@@ -4702,7 +4702,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "21.   take up         从事；占去（地方、时间、注意力等）            39.   turn over               移交；仔细考虑组",
     "tag": "高考词组表518",
     "知识点": "turn over",
     "核心内容": "移交；仔细考虑",
@@ -4713,7 +4713,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "22.   take/run the risk of 冒险                      40.   turn sth into reality   把某事变成现实组",
     "tag": "高考词组表518",
     "知识点": "take/run the risk of 冒险",
     "核心内容": "",
@@ -4724,7 +4724,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "22.   take/run the risk of 冒险                      40.   turn sth into reality   把某事变成现实组",
     "tag": "高考词组表518",
     "知识点": "turn sth into reality",
     "核心内容": "把某事变成现实",
@@ -4735,7 +4735,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "23.   tear down            拆掉（旧房）                  41.   turn to                 转向；求助于组",
     "tag": "高考词组表518",
     "知识点": "tear down",
     "核心内容": "拆掉（旧房）",
@@ -4746,7 +4746,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "23.   tear down            拆掉（旧房）                  41.   turn to                 转向；求助于组",
     "tag": "高考词组表518",
     "知识点": "turn to",
     "核心内容": "转向；求助于",
@@ -4757,7 +4757,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "24.   tell the truth       老实说                     42.   turn up                 开大音量；出现；组",
     "tag": "高考词组表518",
     "知识点": "tell the truth",
     "核心内容": "老实说",
@@ -4768,7 +4768,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "24.   tell the truth       老实说                     42.   turn up                 开大音量；出现；组",
     "tag": "高考词组表518",
     "知识点": "turn up",
     "核心内容": "开大音量；出现；",
@@ -4779,7 +4779,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "25.   thank...for          因....而感谢                43.   turning point           转折点；转机组",
     "tag": "高考词组表518",
     "知识点": "thank...for",
     "核心内容": "因....而感谢",
@@ -4790,7 +4790,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "25.   thank...for          因....而感谢                43.   turning point           转折点；转机组",
     "tag": "高考词组表518",
     "知识点": "turning point",
     "核心内容": "转折点；转机",
@@ -4801,7 +4801,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "T组",
+    "level3": "26.   thanks to            由于，多亏了组",
     "tag": "高考词组表518",
     "知识点": "thanks to",
     "核心内容": "由于，多亏了",
@@ -4812,7 +4812,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "U组",
+    "level3": "1.    under construction       在建设中                4.    under way               在进行中组",
     "tag": "高考词组表518",
     "知识点": "under construction",
     "核心内容": "在建设中",
@@ -4823,7 +4823,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "U组",
+    "level3": "1.    under construction       在建设中                4.    under way               在进行中组",
     "tag": "高考词组表518",
     "知识点": "under way",
     "核心内容": "在进行中",
@@ -4834,7 +4834,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "U组",
+    "level3": "2.    under no circumstances 无论在什么条件下都不            5.    use one’s head          动脑筋组",
     "tag": "高考词组表518",
     "知识点": "under no circumstances 无论在什么条件下都不",
     "核心内容": "",
@@ -4845,7 +4845,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "U组",
+    "level3": "2.    under no circumstances 无论在什么条件下都不            5.    use one’s head          动脑筋组",
     "tag": "高考词组表518",
     "知识点": "use one’s head",
     "核心内容": "动脑筋",
@@ -4856,7 +4856,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "U组",
+    "level3": "3.    under pressure           在压力下                6.    use up                  用光；耗尽组",
     "tag": "高考词组表518",
     "知识点": "under pressure",
     "核心内容": "在压力下",
@@ -4867,7 +4867,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "U组",
+    "level3": "3.    under pressure           在压力下                6.    use up                  用光；耗尽组",
     "tag": "高考词组表518",
     "知识点": "use up",
     "核心内容": "用光；耗尽",
@@ -4878,7 +4878,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "V组",
+    "level3": "1.    vice versa                 反过来也一样；反之亦然组",
     "tag": "高考词组表518",
     "知识点": "vice versa",
     "核心内容": "反过来也一样；反之亦然",
@@ -4889,7 +4889,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "W组",
+    "level3": "1.    warn sb. of/against sth.   警告某人某事            6.    within/ out of one’s reach组",
     "tag": "高考词组表518",
     "知识点": "warn sb. of/against sth.",
     "核心内容": "警告某人某事",
@@ -4900,7 +4900,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "W组",
+    "level3": "1.    warn sb. of/against sth.   警告某人某事            6.    within/ out of one’s reach组",
     "tag": "高考词组表518",
     "知识点": "within/ out of one’s reach",
     "核心内容": "",
@@ -4911,7 +4911,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "W组",
+    "level3": "2.    watch out for              留神                                            在伸手够得到、够不到的地方组",
     "tag": "高考词组表518",
     "知识点": "watch out for",
     "核心内容": "留神                                            在伸手够得到、够不到的地方",
@@ -4922,7 +4922,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "W组",
+    "level3": "3.    when it comes to           当谈到               7.    without exception           毫无例外地组",
     "tag": "高考词组表518",
     "知识点": "when it comes to",
     "核心内容": "当谈到",
@@ -4933,7 +4933,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "W组",
+    "level3": "3.    when it comes to           当谈到               7.    without exception           毫无例外地组",
     "tag": "高考词组表518",
     "知识点": "without exception",
     "核心内容": "毫无例外地",
@@ -4944,7 +4944,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "W组",
+    "level3": "4.    with one voice             异口同声              8.    would rather do A than do B 宁可做 A 而不做 B组",
     "tag": "高考词组表518",
     "知识点": "with one voice",
     "核心内容": "异口同声",
@@ -4955,7 +4955,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "W组",
+    "level3": "4.    with one voice             异口同声              8.    would rather do A than do B 宁可做 A 而不做 B组",
     "tag": "高考词组表518",
     "知识点": "would rather do A than do B 宁可做 A 而不做 B",
     "核心内容": "",
@@ -4966,7 +4966,7 @@ window.SUBJECTS = {
   },
   {
     "level2": "高考词组表518",
-    "level3": "W组",
+    "level3": "5.    with the rise of           随着...的兴起/提高组",
     "tag": "高考词组表518",
     "知识点": "with the rise of",
     "核心内容": "随着...的兴起/提高",
@@ -4974,7 +4974,9 @@ window.SUBJECTS = {
     "名句": "",
     "易错": "",
     "记忆技巧": ""
-  },
+  }
+],
+  "英语熟词273": [
   {
     "level2": "熟词生义273",
     "level3": "A组",

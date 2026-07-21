@@ -2,8 +2,18 @@
 (function () {
   const GAOKAO_DATE = new Date("2027-06-07T09:00:00+08:00");
   const subjects = window.SUBJECTS || {};
+
+  // 英语拆分合并：将两个子键合并为 "英语"，并移除子键的 Tab 入口
+  (function mergeEnglish() {
+    var eng = [];
+    if (subjects["英语词组518"]) { eng = eng.concat(subjects["英语词组518"]); delete subjects["英语词组518"]; }
+    if (subjects["英语熟词273"]) { eng = eng.concat(subjects["英语熟词273"]); delete subjects["英语熟词273"]; }
+    if (eng.length) subjects["英语"] = eng;
+  })();
+
   const subjectNames = Object.keys(subjects);
   let active = subjectNames[0];
+
   let l2 = null; // 二级目录（tag/level2）
   let l3 = null; // 三级目录（level3/知识点）
   const doneKey = "orange-done-cards";

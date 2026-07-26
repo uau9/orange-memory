@@ -18,12 +18,13 @@
   let clozeMode = false;
   let clozeReveals = {};
 
-  // === 工具函数 ===
+  // === 工具 ===
   function loadDone() { try { return JSON.parse(localStorage.getItem(doneKey) || "{}"); } catch (e) { return {}; } }
   function saveDone(map) { localStorage.setItem(doneKey, JSON.stringify(map)); updateBackupHint(); }
   let doneMap = loadDone();
 
   function cardId(card, idx) { return active + "#" + (l2 || "") + "#" + (l3 || "") + "#" + idx; }
+
   function getCards() {
     const all = subjects[active] || [];
     const q = (document.getElementById("search").value || "").trim().toLowerCase();
@@ -49,9 +50,7 @@
   initDark();
 
   // === 备份 ===
-  function updateBackupHint() {
-    document.getElementById("btnExport").title = "备份背诵进度（" + Object.keys(doneMap).length + " 条记录）";
-  }
+  function updateBackupHint() { document.getElementById("btnExport").title = "备份背诵进度（" + Object.keys(doneMap).length + " 条）"; }
   document.getElementById("btnExport").onclick = function () {
     var data = { doneMap: doneMap, dark: localStorage.getItem("orange-dark"), date: new Date().toISOString() };
     var blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
@@ -63,35 +62,33 @@
   };
   updateBackupHint();
 
-  // === 恢复 ===
   document.getElementById("importFile").onchange = function (e) {
-    var file = e.target.files[0];
-    if (!file) return;
+    var file = e.target.files[0]; if (!file) return;
     var reader = new FileReader();
     reader.onload = function () {
       try {
         var data = JSON.parse(reader.result);
         if (data.doneMap && typeof data.doneMap === "object") {
-          if (confirm("将从备份恢复 " + Object.keys(data.doneMap).length + " 条背诵记录，是否覆盖当前进度？")) {
+          if (confirm("将从备份恢复 " + Object.keys(data.doneMap).length + " 条记录，是否覆盖当前进度？")) {
             doneMap = data.doneMap;
             saveDone(doneMap);
             renderContent();
             alert("恢复完成！已加载 " + Object.keys(doneMap).length + " 条记录。");
           }
-        } else { alert("备份文件格式无效，未找到背诵记录。"); }
+        } else alert("备份文件格式无效。");
       } catch (ex) { alert("文件解析失败：" + ex.message); }
     };
     reader.readAsText(file);
     this.value = "";
   };
 
-  // === 挖空测试模式 ===
+  // === 挖空测试 ===
   function toggleCloze(on) {
     clozeMode = on;
     clozeReveals = {};
     document.getElementById("clozeBar").style.display = on ? "flex" : "none";
     document.getElementById("btnCloze").classList.toggle("active", on);
-    if (!on) renderContent();
+    renderContent();
   }
   document.getElementById("btnCloze").onclick = function () { toggleCloze(!clozeMode); };
   document.getElementById("btnClozeOff").onclick = function () { toggleCloze(false); };
@@ -116,66 +113,54 @@
       var b = document.createElement("button");
       b.className = "tab" + (name === active ? " active" : "");
       b.textContent = name;
-      b.onclick = function () { active = name; l2 = null; l3 = null; clozeMode = false; clozeReveals = {}; document.getElementById("clozeBar").style.display = "none"; document.getElementById("btnCloze").classList.remove("active"); renderTabs(); renderContent(); };
+      b.onclick = function () { active = name; l2 = null; l3 = null; if (clozeMode) toggleCloze(false); renderTabs(); renderContent(); };
       box.appendChild(b);
     });
   }
 
-  // === 弹窗 ===
-  var overlay = document.getElementById("modalOverlay");
-  var modal = document.getElementById("modal");
-  var modalTitle = document.getElementById("modalTitle");
-  var modalBody = document.getElementById("modalBody");
-  function openModal(cardData) {
-    modalTitle.textContent = cardData.知识点 || "";
-    var html = "";
-    if (cardData.tag) html += '<div class="section"><span style="display:inline-block;font-size:12px;color:var(--orange);background:var(--orange-soft);padding:2px 10px;border-radius:6px;">' + cardData.tag + '</span></div>';
-    html += '<div class="section"><h4>核心内容</h4><p>' + (cardData.核心内容 || "暂无") + '</p></div>';
-    if (cardData.详情) html += '<div class="section"><h4>背诵详情</h4><p>' + cardData.详情 + '</p></div>';
-    if (cardData.名句) html += '<div class="section"><h4>重点名句</h4><p>' + cardData.名句 + '</p></div>';
-    if (cardData.易错) html += '<div class="section"><h4>易错/易混</h4><p>' + cardData.易错 + '</p></div>';
-    if (cardData.记忆技巧) html += '<div class="section"><h4>记忆技巧</h4><p>' + cardData.记忆技巧 + '</p></div>';
-    modalBody.innerHTML = html;
-    overlay.classList.add("show");
-    modal.classList.add("show");
-    document.body.style.overflow = "hidden";
+  // === HTML 转义 ===
+  function esc(s) {
+    if (s == null) return "";
+    return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
   }
-  function closeModal() { overlay.classList.remove("show"); modal.classList.remove("show"); document.body.style.overflow = ""; }
-  overlay.addEventListener("click", closeModal);
-  document.getElementById("modalClose").addEventListener("click", closeModal);
-  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && modal.classList.contains("show")) closeModal(); });
 
-  // === 挖空：处理文本 ===
-  function clozeText(text, cardIdx) {
-    if (!clozeMode || !text) return text;
-    // 把中文词组/翻译挖空（每次渲染随机选一部分）
-    var parts = text.split(/([，。、；：\n|．])/);
-    var result = "";
+  // === 挖空处理：对中文内容做挖空 ===
+  function clozeContent(text, cardIdx) {
+    if (!clozeMode || !text) return esc(text);
+    // 把中文连续片段按长度挖空约40%
+    var hashSeed = cardIdx;
     var blankIdx = 0;
-    for (var i = 0; i < parts.length; i++) {
-      var p = parts[i];
-      if (p.match(/^[\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]+$/) && p.length >= 2) {
-        // 随机决定是否挖空（约40%概率）
-        var hash = (cardIdx * 31 + blankIdx * 7) % 100;
-        if (hash < 40) {
-          var key = cardIdx + "-" + blankIdx;
-          var revealed = clozeReveals[key];
-          result += '<span class="cloze-blank' + (revealed ? ' revealed' : '') + '" data-cloze-key="' + key + '">' + (revealed ? p : "●●●") + '</span>';
-          blankIdx++;
-        } else {
-          result += p;
-        }
+    var html = "";
+    var i = 0;
+    while (i < text.length) {
+      // 匹配一段中文
+      var m = /[\u4e00-\u9fff]{2,}/.exec(text.substring(i));
+      if (!m) { html += esc(text[i]); i++; continue; }
+      // 找到这段中文
+      var startInText = i + m.index;
+      var seg = m[0];
+      html += esc(text.substring(i, startInText));
+      // 决定是否挖空
+      var hash = (hashSeed * 31 + blankIdx * 7 + startInText) % 100;
+      if (hash < 50) {
+        var key = cardIdx + "-" + blankIdx;
+        var revealed = clozeReveals[key];
+        html += '<span class="cloze-blank' + (revealed ? ' revealed' : '') + '" data-cloze-key="' + key + '" title="点击揭晓">' + (revealed ? esc(seg) : "●●●") + '</span>';
+        clozeReveals[key] = !!revealed;
+        blankIdx++;
       } else {
-        result += p;
+        html += esc(seg);
       }
+      i = startInText + seg.length;
     }
-    return result;
+    return html;
   }
 
-  // === 主渲染 ===
+  // === 卡片渲染（全部内容内联，不再弹窗） ===
   function renderContent() {
     var box = document.getElementById("cards");
     box.innerHTML = "";
+    box.className = clozeMode ? "cards cards-cloze" : "cards";
     var cards = getCards();
     var bread = document.getElementById("breadcrumb");
     bread.innerHTML = l2 !== null ? '<span class="crumb-link" data-action="l2">' + l2 + '</span>' + (l3 !== null ? ' <span class="crumb-sep">›</span> <span class="crumb-link" data-action="l3">' + l3 + '</span>' : "") : "";
@@ -188,7 +173,7 @@
         var div = document.createElement("div");
         div.className = "folder-card";
         var count = (subjects[active] || []).filter(function (c) { return (c.level2 || c.tag) === item; }).length;
-        div.innerHTML = '<div class="folder-icon">📁</div><div class="folder-name">' + item + '</div><div class="folder-count">' + count + ' 项</div>';
+        div.innerHTML = '<div class="folder-icon">📁</div><div class="folder-name">' + esc(item) + '</div><div class="folder-count">' + count + ' 项</div>';
         div.onclick = function () { l2 = item; l3 = null; renderContent(); renderTabs(); };
         box.appendChild(div);
       });
@@ -203,35 +188,39 @@
         var div = document.createElement("div");
         div.className = "folder-card";
         var cnt3 = getCards().filter(function (c) { return (c.level3 || c.知识点) === item; }).length;
-        div.innerHTML = '<div class="folder-icon">📄</div><div class="folder-name">' + item + '</div><div class="folder-count">' + cnt3 + ' 项</div>';
+        div.innerHTML = '<div class="folder-icon">📄</div><div class="folder-name">' + esc(item) + '</div><div class="folder-count">' + cnt3 + ' 项</div>';
         div.onclick = function () { l3 = item; renderContent(); renderTabs(); };
         box.appendChild(div);
       });
       return;
     }
 
-    // 卡片
+    // 卡片（内联完整内容）
     if (!cards.length) { box.innerHTML = '<div class="empty">暂无匹配内容</div>'; return; }
     cards.forEach(function (c, i) {
       var id = cardId(c, i);
       var isDone = !!doneMap[id];
       var card = document.createElement("div");
-      card.className = "card" + (isDone ? " done" : "") + (clozeMode ? " cloze" : "");
-      var hasDetail = !!(c.详情 || c.名句);
-      var coreDisplay = clozeMode ? clozeText(c.核心内容 || "", i) : ((c.核心内容 || "").slice(0, 80) + ((c.核心内容 || "").length > 80 ? "…" : ""));
-      card.innerHTML =
-        '<h3>' + c.知识点 + '</h3>' +
-        '<div class="row"><b>核心内容：</b>' + coreDisplay + '</div>' +
-        (hasDetail ? '<div class="detail-hint">点击查看详情</div>' : "") +
-        '<div class="mark ' + (isDone ? "on" : "") + '" data-id="' + id + '" title="' + (isDone ? "已背" : "未背") + '（右键切换）">' + (isDone ? "✓" : "○") + '</div>';
+      card.className = "card card-full" + (isDone ? " done" : "") + (clozeMode ? " cloze" : "");
+      var html = '<h3>' + esc(c.知识点) + '</h3>';
+      if (c.tag) html += '<div class="card-tag">' + esc(c.tag) + '</div>';
+      // 核心内容
+      if (c.核心内容) html += '<div class="card-section"><div class="card-label">核心内容</div><div class="card-body">' + clozeContent(c.核心内容, i * 100 + 1) + '</div></div>';
+      // 详情（原文/解析/对比等）
+      if (c.详情) html += '<div class="card-section"><div class="card-label">背诵详情</div><div class="card-body">' + clozeContent(c.详情, i * 100 + 2) + '</div></div>';
+      // 名句
+      if (c.名句) html += '<div class="card-section"><div class="card-label">重点名句</div><div class="card-body">' + clozeContent(c.名句, i * 100 + 3) + '</div></div>';
+      // 易错
+      if (c.易错) html += '<div class="card-section"><div class="card-label">易错/易混</div><div class="card-body">' + esc(c.易错) + '</div></div>';
+      // 记忆技巧
+      if (c.记忆技巧) html += '<div class="card-section"><div class="card-label">记忆技巧</div><div class="card-body">' + esc(c.记忆技巧) + '</div></div>';
+      // 已背标记
+      html += '<div class="mark ' + (isDone ? "on" : "") + '" data-id="' + id + '" title="' + (isDone ? "已背" : "未背") + '（右键切换）">' + (isDone ? "✓" : "○") + '</div>';
 
-      card.addEventListener("click", function (e) {
-        if (e.target.classList.contains("mark") || e.target.classList.contains("cloze-blank")) return;
-        openModal(c);
-      });
+      card.innerHTML = html;
 
-      var markEl = card.querySelector(".mark");
-      markEl.addEventListener("contextmenu", function (e) {
+      // 右键切换已背
+      card.querySelector(".mark").addEventListener("contextmenu", function (e) {
         e.preventDefault(); e.stopPropagation();
         if (doneMap[id]) delete doneMap[id]; else doneMap[id] = 1;
         saveDone(doneMap);
@@ -242,15 +231,17 @@
       box.appendChild(card);
     });
 
-    // 挖空点击事件委托
+    // 挖空点击揭晓
     if (clozeMode) {
       box.onclick = function (e) {
         var blank = e.target.closest(".cloze-blank");
         if (!blank) return;
         var key = blank.dataset.clozeKey;
-        if (key) { clozeReveals[key] = true; }
-        renderContent();
-        updateClozeStats();
+        if (key) {
+          clozeReveals[key] = true;
+          renderContent();
+          updateClozeStats();
+        }
       };
       updateClozeStats();
     }

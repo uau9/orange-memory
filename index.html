@@ -9,7 +9,14 @@
 <body>
   <header class="site-header">
     <div class="brand">🍊 橙子背诵</div>
-    <div class="countdown" id="countdown">距离高考 loading…</div>
+    <div class="header-actions">
+      <button class="hdr-btn" id="btnCloze" title="挖空测试模式">🔍 测试</button>
+      <button class="hdr-btn" id="btnDark" title="夜间/护眼模式">🌙</button>
+      <button class="hdr-btn" id="btnExport" title="备份背诵进度">📤 备份</button>
+      <button class="hdr-btn" id="btnImport" title="恢复背诵进度" onclick="document.getElementById('importFile').click()">📥 恢复</button>
+      <input type="file" id="importFile" accept=".json" style="display:none">
+      <div class="countdown" id="countdown">距离高考 loading…</div>
+    </div>
   </header>
 
   <div class="toolbar">
@@ -18,6 +25,12 @@
   </div>
 
   <div class="breadcrumb" id="breadcrumb"></div>
+
+  <div id="clozeBar" class="cloze-bar" style="display:none">
+    <span>🔍 挖空测试模式</span>
+    <span id="clozeStats"></span>
+    <button class="hdr-btn" id="btnClozeOff">退出测试</button>
+  </div>
 
   <main id="cards" class="cards"></main>
 
